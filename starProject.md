@@ -1,3 +1,15 @@
+### [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer)
+- **Description:** An Android native video player
+
+### [icochi/The-Marauders-Map](https://github.com/icochi/The-Marauders-Map)
+- **Description:** Harry Potter and the Prisoner of Azkaban  - The Marauder's Map CSS animations
+
+### [lvwzhen/medicine](https://github.com/lvwzhen/medicine)
+- **Description:** 原研药列表
+
+### [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
+- **Description:** Xiaomi Home Integration for Home Assistant
+
 ### [Mran/githubstartog](https://github.com/Mran/githubstartog)
 - **Description:** 将你的星标项目做成前端页面
 
@@ -55,7 +67,7 @@
 - **Description:** 使用 腾讯X5 WebView 开发的电视直播App
 
 ### [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 
 ### [ddahan/ui-libs](https://github.com/ddahan/ui-libs)
 - **Description:** A UI Lib Picker for Vue 3 / Nuxt 3
@@ -113,9 +125,6 @@
 
 ### [infinity-ooo/astro-theme-mia](https://github.com/infinity-ooo/astro-theme-mia)
 - **Description:** A minimalist, powerful astro theme with integrated rough-notation for engaging, informative content.
-
-### [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android)
-- **Description:** 使用Android原生开发的电视直播软件
 
 ### [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)
 - **Description:** Portable and lightweight cross-platform desktop application development framework
@@ -765,7 +774,7 @@
 ### [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3)
 - **Description:** TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
 
-### [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons)
+### [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons)
 - **Description:** 100 Modern CSS Buttons. Every style that you can imagine.
 
 ### [ekzhang/bore](https://github.com/ekzhang/bore)
@@ -1123,7 +1132,7 @@
 - **Description:** 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
 ### [MatthewHerbst/react-to-print](https://github.com/MatthewHerbst/react-to-print)
-- **Description:** Print React components in the browser. Supports Chrome, Safari, Firefox and EDGE
+- **Description:** Print React components in the browser
 
 ### [openkraken/kraken](https://github.com/openkraken/kraken)
 - **Description:** A web standards-compliant, high-performance rendering engine based on Flutter.
@@ -1427,7 +1436,7 @@
 - **Description:** Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 
 ### [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)
-- **Description:** A modular Vim/Neovim configuration
+- **Description:** A modular configuration of Vim and Neovim
 
 ### [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
 - **Description:** :octocat: A collection of APIs
