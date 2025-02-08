@@ -1,3 +1,39 @@
+### [Wxh16144/backup-cli](https://github.com/Wxh16144/backup-cli)
+- **Description:** Easy backup of application profiles
+
+### [Wxh16144/refined-antd-changelog](https://github.com/Wxh16144/refined-antd-changelog)
+- **Description:** 清理 Ant Design 的 ChangeLog, 折叠生产环境不推荐使用的版本。
+
+### [sunzsh/internal-chat](https://github.com/sunzsh/internal-chat)
+- **Description:** 纯html写的局域网文字/文件p2p传输工具
+
+### [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+- **Description:** The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+
+### [guozhigq/flutter_v2ex](https://github.com/guozhigq/flutter_v2ex)
+- **Description:** 使用flutter开发的v2ex客户端，支持Android和iOS设备。在Android 12+机型上支持Material You取色
+
+### [koishijs/QFace](https://github.com/koishijs/QFace)
+- **Description:** QQ 系统表情包
+
+### [lmk123/migpt-cli](https://github.com/lmk123/migpt-cli)
+- **Description:** 安全、快速的给你的小爱音箱接入人工智能。
+
+### [MikeWang000000/ClashScan](https://github.com/MikeWang000000/ClashScan)
+- **Description:** 在线检测您是否在使用 Clash。【此工具目的在于推进解决安全问题，请勿用于其他用途】
+
+### [chen08209/FlClash](https://github.com/chen08209/FlClash)
+- **Description:** A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+### [pdone/lx-music-source](https://github.com/pdone/lx-music-source)
+- **Description:** 洛雪音乐源
+
+### [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
+- **Description:** Scan for React performance issues and eliminate slow renders in your app
+
+### [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
+- **Description:** 🏞 A lightweight, versatile image viewer
+
 ### [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer)
 - **Description:** An Android native video player
 
@@ -66,8 +102,8 @@
 ### [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
 - **Description:** 使用 腾讯X5 WebView 开发的电视直播App
 
-### [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+- **Description:** ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ### [ddahan/ui-libs](https://github.com/ddahan/ui-libs)
 - **Description:** A UI Lib Picker for Vue 3 / Nuxt 3
@@ -297,7 +333,7 @@
 - **Description:** 🎥      Make videos programmatically with React
 
 ### [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi)
-- **Description:** A Flask API For StreamMusic. 已入驻爱发电，可在此支持项目：https://afdian.com/a/ghacg
+- **Description:** A Flask API For StreamMusic.
 
 ### [leonlucc/awesome-alternative](https://github.com/leonlucc/awesome-alternative)
 - **Description:** 收录全网口碑平替好物清单，性价比突出、质量不输大牌。目前有成人服饰、儿童服饰、居家用品等系列。坚持更新，欢迎关注
@@ -1435,7 +1471,7 @@
 ### [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
 - **Description:** Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 
-### [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)
+### [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim)
 - **Description:** A modular configuration of Vim and Neovim
 
 ### [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
