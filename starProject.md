@@ -646,9 +646,6 @@
 ### [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 - **Description:** The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 
-### [getcursor/cursor](https://github.com/getcursor/cursor)
-- **Description:** The AI Code Editor
-
 ### [mtbaqer/vscode-better-folding](https://github.com/mtbaqer/vscode-better-folding)
 - **Description:** VS Code extension to improve your folding experience
 
@@ -857,9 +854,6 @@
 
 ### [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)
 - **Description:** ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
-
-### [vercel/swr](https://github.com/vercel/swr)
-- **Description:** React Hooks for Data Fetching
 
 ### [shikijs/shiki](https://github.com/shikijs/shiki)
 - **Description:** A beautiful yet powerful syntax highlighter
@@ -1158,9 +1152,6 @@
 ### [openkraken/kraken](https://github.com/openkraken/kraken)
 - **Description:** A web standards-compliant, high-performance rendering engine based on Flutter.
 
-### [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
-- **Description:** 网易云音乐 Node.js API service
-
 ### [WICG/import-maps](https://github.com/WICG/import-maps)
 - **Description:** How to control the behavior of JavaScript imports
 
@@ -1444,9 +1435,6 @@
 ### [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
 - **Description:** Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 
-### [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim)
-- **Description:** A modular configuration of Vim and Neovim
-
 ### [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
 - **Description:** :octocat: A collection of APIs
 
@@ -1603,9 +1591,6 @@
 
 ### [amir20/phantomjs-node](https://github.com/amir20/phantomjs-node)
 - **Description:** PhantomJS integration module for NodeJS
-
-### [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)
-- **Description:** A browser automation framework and ecosystem.
 
 ### [d2-projects/d2-daily](https://github.com/d2-projects/d2-daily)
 - **Description:** D2 日报

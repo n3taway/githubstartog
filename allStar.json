@@ -788,7 +788,7 @@
       "vercel",
       "webui"
     ],
-    "stargazers_count": 80024,
+    "stargazers_count": 80025,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1413,7 +1413,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "stargazers_count": 14202,
+    "stargazers_count": 14203,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2062,7 +2062,7 @@
       "vnc",
       "wayland"
     ],
-    "stargazers_count": 81501,
+    "stargazers_count": 81502,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2099,7 +2099,7 @@
       "vless",
       "vless-ws-tls"
     ],
-    "stargazers_count": 19179,
+    "stargazers_count": 19180,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2405,7 +2405,7 @@
       "wechat",
       "wechatbak"
     ],
-    "stargazers_count": 3136,
+    "stargazers_count": 3137,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2873,7 +2873,7 @@
     "homepage": "https://www.pagespy.org",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 4773,
+    "stargazers_count": 4774,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4117,7 +4117,7 @@
       "reverse-proxy",
       "tunnel"
     ],
-    "stargazers_count": 90213,
+    "stargazers_count": 90214,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4955,22 +4955,6 @@
       "chatgpt-plugins"
     ],
     "stargazers_count": 21108,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "cursor",
-    "full_name": "getcursor/cursor",
-    "url": "https://api.github.com/repos/getcursor/cursor",
-    "html_url": "https://github.com/getcursor/cursor",
-    "description": "The AI Code Editor",
-    "homepage": "https://cursor.com",
-    "language": null,
-    "topics": [],
-    "stargazers_count": 27394,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6396,7 +6380,7 @@
       "terminal",
       "terminal-emulators"
     ],
-    "stargazers_count": 61743,
+    "stargazers_count": 61744,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6587,36 +6571,6 @@
       "vue3x"
     ],
     "stargazers_count": 7476,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "swr",
-    "full_name": "vercel/swr",
-    "url": "https://api.github.com/repos/vercel/swr",
-    "html_url": "https://github.com/vercel/swr",
-    "description": "React Hooks for Data Fetching",
-    "homepage": "https://swr.vercel.app",
-    "language": "TypeScript",
-    "topics": [
-      "cache",
-      "data",
-      "data-fetching",
-      "fetch",
-      "hook",
-      "hooks",
-      "nextjs",
-      "react",
-      "react-native",
-      "stale-while-revalidate",
-      "suspense",
-      "swr",
-      "vercel"
-    ],
-    "stargazers_count": 30985,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7482,7 +7436,7 @@
       "sqlserver",
       "swagger"
     ],
-    "stargazers_count": 51348,
+    "stargazers_count": 51349,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7519,7 +7473,7 @@
       "nodejs",
       "package-manager"
     ],
-    "stargazers_count": 11478,
+    "stargazers_count": 11479,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8706,7 +8660,7 @@
       "tooltip",
       "tour"
     ],
-    "stargazers_count": 7042,
+    "stargazers_count": 7043,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8856,29 +8810,6 @@
       "web"
     ],
     "stargazers_count": 4926,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "NeteaseCloudMusicApi",
-    "full_name": "Binaryify/NeteaseCloudMusicApi",
-    "url": "https://api.github.com/repos/Binaryify/NeteaseCloudMusicApi",
-    "html_url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
-    "description": "网易云音乐 Node.js API service",
-    "homepage": "https://gitlab.com/Binaryify/neteasecloudmusicapi",
-    "language": null,
-    "topics": [
-      "api",
-      "apis",
-      "cloudmusic",
-      "javascript",
-      "neteasecloud",
-      "nodejs"
-    ],
-    "stargazers_count": 30302,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9672,7 +9603,7 @@
       "react",
       "side-effect"
     ],
-    "stargazers_count": 17442,
+    "stargazers_count": 17443,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10062,7 +9993,7 @@
     "homepage": "",
     "language": null,
     "topics": [],
-    "stargazers_count": 52109,
+    "stargazers_count": 52111,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10962,29 +10893,6 @@
     "language": "JavaScript",
     "topics": [],
     "stargazers_count": 30838,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "SpaceVim",
-    "full_name": "wsdjeg/SpaceVim",
-    "url": "https://api.github.com/repos/wsdjeg/SpaceVim",
-    "html_url": "https://github.com/wsdjeg/SpaceVim",
-    "description": "A modular configuration of Vim and Neovim",
-    "homepage": "https://spacevim.org/",
-    "language": "Vim Script",
-    "topics": [
-      "neovim",
-      "neovim-plugin",
-      "spacevim",
-      "vim",
-      "vim-plugin",
-      "vimrc"
-    ],
-    "stargazers_count": 20373,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -12146,30 +12054,6 @@
       "phantomjs-process"
     ],
     "stargazers_count": 3536,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "selenium",
-    "full_name": "SeleniumHQ/selenium",
-    "url": "https://api.github.com/repos/SeleniumHQ/selenium",
-    "html_url": "https://github.com/SeleniumHQ/selenium",
-    "description": "A browser automation framework and ecosystem.",
-    "homepage": "https://selenium.dev",
-    "language": "Java",
-    "topics": [
-      "dotnet",
-      "java",
-      "javascript",
-      "python",
-      "ruby",
-      "selenium",
-      "webdriver"
-    ],
-    "stargazers_count": 31525,
     "ai_tag": {
       "group": "",
       "tags": null,
