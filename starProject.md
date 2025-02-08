@@ -1263,9 +1263,6 @@
 ### [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions)
 - **Description:** Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 
-### [nfl/react-helmet](https://github.com/nfl/react-helmet)
-- **Description:** A document head manager for React
-
 ### [tanem/react-svg](https://github.com/tanem/react-svg)
 - **Description:** :art: A React component that injects SVG into the DOM.
 
@@ -1570,9 +1567,6 @@
 
 ### [britecharts/britecharts](https://github.com/britecharts/britecharts)
 - **Description:** Composable Charting Library based on reusable D3.js components.
-
-### [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-- **Description:** Revive unavailable songs for Netease Cloud Music
 
 ### [youngwind/blog](https://github.com/youngwind/blog)
 - **Description:** 梁少峰的个人博客

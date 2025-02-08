@@ -549,7 +549,7 @@
       "typescript",
       "uml-diagrams"
     ],
-    "stargazers_count": 75393,
+    "stargazers_count": 75394,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -788,7 +788,7 @@
       "vercel",
       "webui"
     ],
-    "stargazers_count": 80025,
+    "stargazers_count": 80026,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1902,7 +1902,7 @@
       "nextjs",
       "view-transitions"
     ],
-    "stargazers_count": 2089,
+    "stargazers_count": 2090,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2484,7 +2484,7 @@
       "react",
       "video"
     ],
-    "stargazers_count": 21461,
+    "stargazers_count": 21462,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6295,7 +6295,7 @@
       "zig",
       "ziglang"
     ],
-    "stargazers_count": 76060,
+    "stargazers_count": 76061,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9591,26 +9591,6 @@
     }
   },
   {
-    "name": "react-helmet",
-    "full_name": "nfl/react-helmet",
-    "url": "https://api.github.com/repos/nfl/react-helmet",
-    "html_url": "https://github.com/nfl/react-helmet",
-    "description": "A document head manager for React",
-    "homepage": "",
-    "language": "JavaScript",
-    "topics": [
-      "helmet",
-      "react",
-      "side-effect"
-    ],
-    "stargazers_count": 17443,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
     "name": "react-svg",
     "full_name": "tanem/react-svg",
     "url": "https://api.github.com/repos/tanem/react-svg",
@@ -11902,26 +11882,6 @@
       "svg"
     ],
     "stargazers_count": 3732,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "UnblockNeteaseMusic",
-    "full_name": "nondanee/UnblockNeteaseMusic",
-    "url": "https://api.github.com/repos/nondanee/UnblockNeteaseMusic",
-    "html_url": "https://github.com/nondanee/UnblockNeteaseMusic",
-    "description": "Revive unavailable songs for Netease Cloud Music",
-    "homepage": "",
-    "language": "JavaScript",
-    "topics": [
-      "netease-cloud-music",
-      "proxy-server",
-      "unblocker"
-    ],
-    "stargazers_count": 17449,
     "ai_tag": {
       "group": "",
       "tags": null,
