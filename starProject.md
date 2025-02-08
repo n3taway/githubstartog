@@ -1,3 +1,6 @@
+### [MikeWang000000/ClashScan](https://github.com/MikeWang000000/ClashScan)
+- **Description:** 在线检测您是否在使用 Clash。【此工具目的在于推进解决安全问题，请勿用于其他用途】
+
 ### [Wxh16144/backup-cli](https://github.com/Wxh16144/backup-cli)
 - **Description:** Easy backup of application profiles
 
@@ -180,9 +183,6 @@
 ### [Rich-Harris/vlq](https://github.com/Rich-Harris/vlq)
 - **Description:** Generate, and decode, base64 VLQ mappings for sourcemaps and other uses
 
-### [pyenv/pyenv](https://github.com/pyenv/pyenv)
-- **Description:** Simple Python version management
-
 ### [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
 - **Description:** UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 
@@ -274,9 +274,6 @@
 
 ### [css/csso](https://github.com/css/csso)
 - **Description:** CSS minifier with structural optimizations
-
-### [expo/expo](https://github.com/expo/expo)
-- **Description:** An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
 ### [ast-grep/ast-grep-vscode](https://github.com/ast-grep/ast-grep-vscode)
 - **Description:** ast-grep VSCode is a structural search and replace extension for many languages.
@@ -592,9 +589,6 @@
 
 ### [dromara/domain-admin](https://github.com/dromara/domain-admin)
 - **Description:** 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System. 
-
-### [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-- **Description:** Windows system utilities to maximize productivity
 
 ### [justjavac/weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search)
 - **Description:** 微博热搜榜，记录从 2020-11-24 日开始的微博热门搜索。每小时抓取一次数据，按天归档。
@@ -987,9 +981,6 @@
 ### [reactnativecn/react-native-pushy](https://github.com/reactnativecn/react-native-pushy)
 - **Description:** React Native 极速热更新服务
 
-### [facebook/react-native](https://github.com/facebook/react-native)
-- **Description:** A framework for building native applications using React
-
 ### [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims)
 - **Description:** Shims for new ES modules features on top of the basic modules support in browsers
 
@@ -1149,9 +1140,6 @@
 ### [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary)
 - **Description:** Simple reusable React error boundary component
 
-### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-- **Description:** Master programming by recreating your favorite technologies from scratch.
-
 ### [voidcosmos/npkill](https://github.com/voidcosmos/npkill)
 - **Description:** List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 
@@ -1179,9 +1167,6 @@
 ### [lerna/lerna](https://github.com/lerna/lerna)
 - **Description:** Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 
-### [sveltejs/svelte](https://github.com/sveltejs/svelte)
-- **Description:** web development for the rest of us
-
 ### [kisstkondoros/codemetrics](https://github.com/kisstkondoros/codemetrics)
 - **Description:** VSCode extension which shows the complexity information for TypeScript class members
 
@@ -1190,9 +1175,6 @@
 
 ### [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf)
 - **Description:** A tool to create frontend apps using webpack, Parcel or Snowpack
-
-### [nvbn/thefuck](https://github.com/nvbn/thefuck)
-- **Description:** Magnificent app which corrects your previous console command.
 
 ### [rough-stuff/rough](https://github.com/rough-stuff/rough)
 - **Description:** Create graphics with a hand-drawn, sketchy, appearance
@@ -1223,9 +1205,6 @@
 
 ### [metersphere/metersphere](https://github.com/metersphere/metersphere)
 - **Description:** MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
-
-### [evanw/esbuild](https://github.com/evanw/esbuild)
-- **Description:** An extremely fast bundler for the web
 
 ### [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 - **Description:** Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -1334,9 +1313,6 @@
 
 ### [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 - **Description:** Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-### [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-- **Description:** TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ### [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl)
 - **Description:** Stanford Javascript Crypto Library
@@ -1550,9 +1526,6 @@
 ### [KieSun/learn-react-essence](https://github.com/KieSun/learn-react-essence)
 - **Description:** :octocat:React 原理
 
-### [d3/d3](https://github.com/d3/d3)
-- **Description:** Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
-
 ### [jaywcjlove/mocker-api](https://github.com/jaywcjlove/mocker-api)
 - **Description:** mocker-api that creates mocks for REST APIs. It will be helpful when you try to test your application without the actual REST API server.
 
@@ -1601,9 +1574,6 @@
 ### [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 - **Description:** 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 
-### [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-- **Description:** List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-
 ### [chvin/react-tetris](https://github.com/chvin/react-tetris)
 - **Description:** Use React, Redux, Immutable to code Tetris. 🎮
 
@@ -1612,9 +1582,6 @@
 
 ### [britecharts/britecharts](https://github.com/britecharts/britecharts)
 - **Description:** Composable Charting Library based on reusable D3.js components.
-
-### [microsoft/terminal](https://github.com/microsoft/terminal)
-- **Description:** The new Windows Terminal and the original Windows console host, all in the same place!
 
 ### [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
 - **Description:** Revive unavailable songs for Netease Cloud Music
@@ -1633,9 +1600,6 @@
 
 ### [fengxianqi/remember-scroll](https://github.com/fengxianqi/remember-scroll)
 - **Description:** :dart: A plugin using localStorage to remember element scroll-position when closed the page. 
-
-### [facebook/react](https://github.com/facebook/react)
-- **Description:** The library for web and native user interfaces.
 
 ### [amir20/phantomjs-node](https://github.com/amir20/phantomjs-node)
 - **Description:** PhantomJS integration module for NodeJS
@@ -1713,9 +1677,6 @@
 
 ### [Kenshin/simpread](https://github.com/Kenshin/simpread)
 - **Description:** 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-
-### [vuejs/vue](https://github.com/vuejs/vue)
-- **Description:** This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
 ### [alivebao/clean-code-js](https://github.com/alivebao/clean-code-js)
 - **Description:** JavaScript风格指南

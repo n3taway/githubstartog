@@ -1,5 +1,21 @@
 [
   {
+    "name": "ClashScan",
+    "full_name": "MikeWang000000/ClashScan",
+    "url": "https://api.github.com/repos/MikeWang000000/ClashScan",
+    "html_url": "https://github.com/MikeWang000000/ClashScan",
+    "description": "在线检测您是否在使用 Clash。【此工具目的在于推进解决安全问题，请勿用于其他用途】",
+    "homepage": "https://mikewang000000.github.io/ClashScan",
+    "language": "JavaScript",
+    "topics": [],
+    "stargazers_count": 213,
+    "ai_tag": {
+      "group": "",
+      "tags": null,
+      "desc": ""
+    }
+  },
+  {
     "name": "backup-cli",
     "full_name": "Wxh16144/backup-cli",
     "url": "https://api.github.com/repos/Wxh16144/backup-cli",
@@ -87,7 +103,7 @@
       "website-monitoring",
       "website-watcher"
     ],
-    "stargazers_count": 21745,
+    "stargazers_count": 21746,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -772,7 +788,7 @@
       "vercel",
       "webui"
     ],
-    "stargazers_count": 80020,
+    "stargazers_count": 80024,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1381,25 +1397,6 @@
     }
   },
   {
-    "name": "pyenv",
-    "full_name": "pyenv/pyenv",
-    "url": "https://api.github.com/repos/pyenv/pyenv",
-    "html_url": "https://github.com/pyenv/pyenv",
-    "description": "Simple Python version management",
-    "homepage": "",
-    "language": "Roff",
-    "topics": [
-      "python",
-      "shell"
-    ],
-    "stargazers_count": 40625,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
     "name": "magicui",
     "full_name": "magicuidesign/magicui",
     "url": "https://api.github.com/repos/magicuidesign/magicui",
@@ -1807,7 +1804,7 @@
       "typescript",
       "web"
     ],
-    "stargazers_count": 16906,
+    "stargazers_count": 16907,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2065,7 +2062,7 @@
       "vnc",
       "wayland"
     ],
-    "stargazers_count": 81499,
+    "stargazers_count": 81501,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2145,39 +2142,6 @@
       "usage-data"
     ],
     "stargazers_count": 3772,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "expo",
-    "full_name": "expo/expo",
-    "url": "https://api.github.com/repos/expo/expo",
-    "html_url": "https://github.com/expo/expo",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-    "homepage": "https://docs.expo.dev",
-    "language": "TypeScript",
-    "topics": [
-      "android",
-      "app-framework",
-      "expo",
-      "framework",
-      "frontend",
-      "ios",
-      "javascript",
-      "mobile",
-      "native",
-      "native-apps",
-      "react",
-      "react-native",
-      "typescript",
-      "universal",
-      "web",
-      "web-framework"
-    ],
-    "stargazers_count": 37044,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2312,7 +2276,7 @@
     "homepage": "",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 27286,
+    "stargazers_count": 27287,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2333,7 +2297,7 @@
       "mytv",
       "tv"
     ],
-    "stargazers_count": 31676,
+    "stargazers_count": 31678,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2462,7 +2426,7 @@
       "pyqt",
       "wechat"
     ],
-    "stargazers_count": 37002,
+    "stargazers_count": 37004,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3119,7 +3083,7 @@
       "react-native",
       "typescript"
     ],
-    "stargazers_count": 10579,
+    "stargazers_count": 10580,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4315,7 +4279,7 @@
       "subsonic",
       "subsonic-server"
     ],
-    "stargazers_count": 13118,
+    "stargazers_count": 13117,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4575,31 +4539,6 @@
       "ssl-cert"
     ],
     "stargazers_count": 2014,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "PowerToys",
-    "full_name": "microsoft/PowerToys",
-    "url": "https://api.github.com/repos/microsoft/PowerToys",
-    "html_url": "https://github.com/microsoft/PowerToys",
-    "description": "Windows system utilities to maximize productivity",
-    "homepage": "",
-    "language": "C#",
-    "topics": [
-      "color-picker",
-      "desktop",
-      "fancyzones",
-      "keyboard-manager",
-      "microsoft-powertoys",
-      "powerrename",
-      "powertoys",
-      "windows"
-    ],
-    "stargazers_count": 114567,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4937,7 +4876,7 @@
     "homepage": "https://wujie-micro.github.io/doc/",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 4292,
+    "stargazers_count": 4293,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5031,7 +4970,7 @@
     "homepage": "https://cursor.com",
     "language": null,
     "topics": [],
-    "stargazers_count": 27393,
+    "stargazers_count": 27394,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6060,7 +5999,7 @@
       "monorepo",
       "typescript"
     ],
-    "stargazers_count": 26919,
+    "stargazers_count": 26920,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6282,7 +6221,7 @@
       "windows-10",
       "windows-11"
     ],
-    "stargazers_count": 16238,
+    "stargazers_count": 16239,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6555,7 +6494,7 @@
     "homepage": "http://pdfmake.org",
     "language": "JavaScript",
     "topics": [],
-    "stargazers_count": 11823,
+    "stargazers_count": 11824,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7620,31 +7559,6 @@
     "language": "TypeScript",
     "topics": [],
     "stargazers_count": 1801,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "react-native",
-    "full_name": "facebook/react-native",
-    "url": "https://api.github.com/repos/facebook/react-native",
-    "html_url": "https://github.com/facebook/react-native",
-    "description": "A framework for building native applications using React",
-    "homepage": "https://reactnative.dev",
-    "language": "C++",
-    "topics": [
-      "android",
-      "app-framework",
-      "cross-platform",
-      "ios",
-      "mobile",
-      "mobile-development",
-      "react",
-      "react-native"
-    ],
-    "stargazers_count": 120457,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8816,29 +8730,6 @@
     }
   },
   {
-    "name": "build-your-own-x",
-    "full_name": "codecrafters-io/build-your-own-x",
-    "url": "https://api.github.com/repos/codecrafters-io/build-your-own-x",
-    "html_url": "https://github.com/codecrafters-io/build-your-own-x",
-    "description": "Master programming by recreating your favorite technologies from scratch.",
-    "homepage": "https://codecrafters.io",
-    "language": "Markdown",
-    "topics": [
-      "awesome-list",
-      "free",
-      "programming",
-      "tutorial-code",
-      "tutorial-exercises",
-      "tutorials"
-    ],
-    "stargazers_count": 330319,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
     "name": "npkill",
     "full_name": "voidcosmos/npkill",
     "url": "https://api.github.com/repos/voidcosmos/npkill",
@@ -9033,26 +8924,6 @@
     }
   },
   {
-    "name": "svelte",
-    "full_name": "sveltejs/svelte",
-    "url": "https://api.github.com/repos/sveltejs/svelte",
-    "html_url": "https://github.com/sveltejs/svelte",
-    "description": "web development for the rest of us",
-    "homepage": "https://svelte.dev",
-    "language": "JavaScript",
-    "topics": [
-      "compiler",
-      "template",
-      "ui"
-    ],
-    "stargazers_count": 81247,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
     "name": "codemetrics",
     "full_name": "kisstkondoros/codemetrics",
     "url": "https://api.github.com/repos/kisstkondoros/codemetrics",
@@ -9094,25 +8965,6 @@
     "language": "JavaScript",
     "topics": [],
     "stargazers_count": 875,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "thefuck",
-    "full_name": "nvbn/thefuck",
-    "url": "https://api.github.com/repos/nvbn/thefuck",
-    "html_url": "https://github.com/nvbn/thefuck",
-    "description": "Magnificent app which corrects your previous console command.",
-    "homepage": "",
-    "language": "Python",
-    "topics": [
-      "python",
-      "shell"
-    ],
-    "stargazers_count": 89773,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9323,34 +9175,6 @@
     }
   },
   {
-    "name": "esbuild",
-    "full_name": "evanw/esbuild",
-    "url": "https://api.github.com/repos/evanw/esbuild",
-    "html_url": "https://github.com/evanw/esbuild",
-    "description": "An extremely fast bundler for the web",
-    "homepage": "https://esbuild.github.io/",
-    "language": "Go",
-    "topics": [
-      "bundler",
-      "commonjs",
-      "compiler",
-      "css",
-      "esm",
-      "javascript",
-      "jsx",
-      "minifier",
-      "react",
-      "tsx",
-      "typescript"
-    ],
-    "stargazers_count": 38514,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
     "name": "flameshot",
     "full_name": "flameshot-org/flameshot",
     "url": "https://api.github.com/repos/flameshot-org/flameshot",
@@ -9412,7 +9236,7 @@
       "hacktoberfest",
       "vscode"
     ],
-    "stargazers_count": 22982,
+    "stargazers_count": 22983,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10176,27 +10000,6 @@
     }
   },
   {
-    "name": "TypeScript",
-    "full_name": "microsoft/TypeScript",
-    "url": "https://api.github.com/repos/microsoft/TypeScript",
-    "html_url": "https://github.com/microsoft/TypeScript",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-    "homepage": "https://www.typescriptlang.org",
-    "language": "TypeScript",
-    "topics": [
-      "javascript",
-      "language",
-      "typechecker",
-      "typescript"
-    ],
-    "stargazers_count": 102069,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
     "name": "sjcl",
     "full_name": "bitwiseshiftleft/sjcl",
     "url": "https://api.github.com/repos/bitwiseshiftleft/sjcl",
@@ -10303,7 +10106,7 @@
       "github",
       "hosts"
     ],
-    "stargazers_count": 24563,
+    "stargazers_count": 24564,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10613,7 +10416,7 @@
       "hmr",
       "vite"
     ],
-    "stargazers_count": 70512,
+    "stargazers_count": 70513,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -11142,7 +10945,7 @@
       "vscode",
       "vscode-remote"
     ],
-    "stargazers_count": 69687,
+    "stargazers_count": 69686,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -11722,29 +11525,6 @@
     }
   },
   {
-    "name": "d3",
-    "full_name": "d3/d3",
-    "url": "https://api.github.com/repos/d3/d3",
-    "html_url": "https://github.com/d3/d3",
-    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
-    "homepage": "https://d3js.org",
-    "language": "Shell",
-    "topics": [
-      "chart",
-      "charts",
-      "d3",
-      "data-visualization",
-      "svg",
-      "visualization"
-    ],
-    "stargazers_count": 109703,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
     "name": "mocker-api",
     "full_name": "jaywcjlove/mocker-api",
     "url": "https://api.github.com/repos/jaywcjlove/mocker-api",
@@ -12147,36 +11927,6 @@
     }
   },
   {
-    "name": "reactjs-interview-questions",
-    "full_name": "sudheerj/reactjs-interview-questions",
-    "url": "https://api.github.com/repos/sudheerj/reactjs-interview-questions",
-    "html_url": "https://github.com/sudheerj/reactjs-interview-questions",
-    "description": "List of top 500 ReactJS Interview Questions \u0026 Answers....Coding exercise questions are coming soon!!",
-    "homepage": "",
-    "language": "JavaScript",
-    "topics": [
-      "interview-preparation",
-      "interview-questions",
-      "javascript",
-      "javascript-applications",
-      "javascript-framework",
-      "javascript-interview-questions",
-      "react",
-      "react-interview-questions",
-      "react-native",
-      "react-router",
-      "react16",
-      "reactjs",
-      "redux"
-    ],
-    "stargazers_count": 40939,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
     "name": "react-tetris",
     "full_name": "chvin/react-tetris",
     "url": "https://api.github.com/repos/chvin/react-tetris",
@@ -12244,34 +11994,6 @@
       "svg"
     ],
     "stargazers_count": 3732,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "terminal",
-    "full_name": "microsoft/terminal",
-    "url": "https://api.github.com/repos/microsoft/terminal",
-    "html_url": "https://github.com/microsoft/terminal",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-    "homepage": "",
-    "language": "C++",
-    "topics": [
-      "cmd",
-      "command-line",
-      "console",
-      "contributions-welcome",
-      "good-first-issue",
-      "hacktoberfest",
-      "terminal",
-      "windows",
-      "windows-console",
-      "windows-terminal",
-      "wsl"
-    ],
-    "stargazers_count": 96690,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -12403,29 +12125,6 @@
       "scroll"
     ],
     "stargazers_count": 51,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "react",
-    "full_name": "facebook/react",
-    "url": "https://api.github.com/repos/facebook/react",
-    "html_url": "https://github.com/facebook/react",
-    "description": "The library for web and native user interfaces.",
-    "homepage": "https://react.dev",
-    "language": "JavaScript",
-    "topics": [
-      "declarative",
-      "frontend",
-      "javascript",
-      "library",
-      "react",
-      "ui"
-    ],
-    "stargazers_count": 232076,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -12978,27 +12677,6 @@
       "reading-list"
     ],
     "stargazers_count": 8207,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "vue",
-    "full_name": "vuejs/vue",
-    "url": "https://api.github.com/repos/vuejs/vue",
-    "html_url": "https://github.com/vuejs/vue",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
-    "homepage": "http://v2.vuejs.org",
-    "language": "TypeScript",
-    "topics": [
-      "framework",
-      "frontend",
-      "javascript",
-      "vue"
-    ],
-    "stargazers_count": 208315,
     "ai_tag": {
       "group": "",
       "tags": null,
