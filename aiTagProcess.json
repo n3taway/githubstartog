@@ -153,22 +153,6 @@
     }
   },
   {
-    "name": "ClashScan",
-    "full_name": "MikeWang000000/ClashScan",
-    "url": "https://api.github.com/repos/MikeWang000000/ClashScan",
-    "html_url": "https://github.com/MikeWang000000/ClashScan",
-    "description": "在线检测您是否在使用 Clash。【此工具目的在于推进解决安全问题，请勿用于其他用途】",
-    "homepage": "https://mikewang000000.github.io/ClashScan",
-    "language": "JavaScript",
-    "topics": [],
-    "stargazers_count": 213,
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
     "name": "FlClash",
     "full_name": "chen08209/FlClash",
     "url": "https://api.github.com/repos/chen08209/FlClash",
@@ -788,7 +772,7 @@
       "vercel",
       "webui"
     ],
-    "stargazers_count": 80019,
+    "stargazers_count": 80020,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1408,7 +1392,7 @@
       "python",
       "shell"
     ],
-    "stargazers_count": 40626,
+    "stargazers_count": 40625,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1432,7 +1416,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "stargazers_count": 14201,
+    "stargazers_count": 14202,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1823,7 +1807,7 @@
       "typescript",
       "web"
     ],
-    "stargazers_count": 16905,
+    "stargazers_count": 16906,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2081,7 +2065,7 @@
       "vnc",
       "wayland"
     ],
-    "stargazers_count": 81498,
+    "stargazers_count": 81499,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2328,7 +2312,7 @@
     "homepage": "",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 27285,
+    "stargazers_count": 27286,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2349,7 +2333,7 @@
       "mytv",
       "tv"
     ],
-    "stargazers_count": 31677,
+    "stargazers_count": 31676,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2478,7 +2462,7 @@
       "pyqt",
       "wechat"
     ],
-    "stargazers_count": 37001,
+    "stargazers_count": 37002,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2494,7 +2478,7 @@
     "homepage": "",
     "language": null,
     "topics": [],
-    "stargazers_count": 10039,
+    "stargazers_count": 10040,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2671,7 +2655,7 @@
       "navidrome-client",
       "subsonic-client"
     ],
-    "stargazers_count": 1203,
+    "stargazers_count": 1204,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4169,7 +4153,7 @@
       "reverse-proxy",
       "tunnel"
     ],
-    "stargazers_count": 90212,
+    "stargazers_count": 90213,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4389,7 +4373,7 @@
       "react-hooks",
       "typescript"
     ],
-    "stargazers_count": 29740,
+    "stargazers_count": 29741,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6451,7 +6435,7 @@
       "versioning",
       "windows"
     ],
-    "stargazers_count": 39320,
+    "stargazers_count": 39321,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6473,7 +6457,7 @@
       "terminal",
       "terminal-emulators"
     ],
-    "stargazers_count": 61744,
+    "stargazers_count": 61743,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8847,7 +8831,7 @@
       "tutorial-exercises",
       "tutorials"
     ],
-    "stargazers_count": 330318,
+    "stargazers_count": 330319,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10493,7 +10477,7 @@
       "react-hooks",
       "umi-hooks"
     ],
-    "stargazers_count": 14246,
+    "stargazers_count": 14245,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -11537,7 +11521,7 @@
       "music-player",
       "vue"
     ],
-    "stargazers_count": 42114,
+    "stargazers_count": 42115,
     "ai_tag": {
       "group": "",
       "tags": null,

@@ -19,9 +19,6 @@
 ### [lmk123/migpt-cli](https://github.com/lmk123/migpt-cli)
 - **Description:** 安全、快速的给你的小爱音箱接入人工智能。
 
-### [MikeWang000000/ClashScan](https://github.com/MikeWang000000/ClashScan)
-- **Description:** 在线检测您是否在使用 Clash。【此工具目的在于推进解决安全问题，请勿用于其他用途】
-
 ### [chen08209/FlClash](https://github.com/chen08209/FlClash)
 - **Description:** A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
