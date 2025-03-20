@@ -1,8 +1,32 @@
+### [VegaBobo/Language-Selector](https://github.com/VegaBobo/Language-Selector)
+- **Description:** Language Selector let users select individual app languages (Android 13+)
+
+### [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres)
+- **Description:** three+vue3<tres> : An open-source framework that enables rapid implementation of your 3D visualization projects [微信小程序 tvt.js tres.js three.js vue3 ts]
+
+### [lynx-family/lynx](https://github.com/lynx-family/lynx)
+- **Description:** Empower the Web community and invite more to build across platforms.
+
+### [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)
+- **Description:** Config of File Nesting for VS Code
+
+### [any-listen/any-listen](https://github.com/any-listen/any-listen)
+- **Description:** A cross-platform private song playback service.
+
+### [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- **Description:** A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.
+
+### [exelban/stats](https://github.com/exelban/stats)
+- **Description:** macOS system monitor in your menu bar
+
+### [x6ud/pose-search](https://github.com/x6ud/pose-search)
+- **Description:** x6ud.github.io/pose-search
+
 ### [MikeWang000000/ClashScan](https://github.com/MikeWang000000/ClashScan)
-- **Description:** 在线检测您是否在使用 Clash。【此工具目的在于推进解决安全问题，请勿用于其他用途】
+- **Description:** 在线检测您是否在使用 Clash
 
 ### [Wxh16144/backup-cli](https://github.com/Wxh16144/backup-cli)
-- **Description:** Easy backup of application profiles
+- **Description:** 一键备份你的生产力工具配置
 
 ### [Wxh16144/refined-antd-changelog](https://github.com/Wxh16144/refined-antd-changelog)
 - **Description:** 清理 Ant Design 的 ChangeLog, 折叠生产环境不推荐使用的版本。
@@ -68,7 +92,7 @@
 - **Description:** 微信云备份，备份到服务器、Docker、NAS，Web访问。
 
 ### [barvian/number-flow](https://github.com/barvian/number-flow)
-- **Description:** An animated number component for React, Vue, and Svelte.
+- **Description:** An animated number component for React, Vue, Svelte, and TS/JS.
 
 ### [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
 - **Description:** Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -159,7 +183,7 @@
 ### [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)
 - **Description:** 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
-### [infinity-ooo/astro-theme-mia](https://github.com/infinity-ooo/astro-theme-mia)
+### [thinkininfinity/astro-theme-mia](https://github.com/thinkininfinity/astro-theme-mia)
 - **Description:** A minimalist, powerful astro theme with integrated rough-notation for engaging, informative content.
 
 ### [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)
@@ -205,7 +229,7 @@
 - **Description:** The fast & forgiving HTML and XML parser
 
 ### [gvcgo/version-manager](https://github.com/gvcgo/version-manager)
-- **Description:** 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- **Description:** 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs. Docs: https://gvcgo.github.io/vmrdocs
 
 ### [wsvn53/scrcpy-mobile](https://github.com/wsvn53/scrcpy-mobile)
 - **Description:** Ported scrcpy for mobile platforms, to remotely control Android devices on your iPhone or Android phone.
@@ -220,7 +244,7 @@
 - **Description:** 🧩 The cross-browser extension framework.
 
 ### [RSSNext/Follow](https://github.com/RSSNext/Follow)
-- **Description:** 🧡 Follow your favorites in one inbox
+- **Description:** 🧡 Follow everything in one place
 
 ### [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 - **Description:** Wechat Chat History Exporter 微信聊天记录导出备份程序
@@ -279,22 +303,22 @@
 - **Description:** ast-grep VSCode is a structural search and replace extension for many languages.
 
 ### [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor)
-- **Description:** A one-stop build analyzer for Rspack and webpack.
+- **Description:** A one-stop build analyzer for Rspack and webpack. Support us with a star ⭐️
 
 ### [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move)
 - **Description:** Smoothly animated code blocks with Shiki
 
 ### [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
-- **Description:** Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on
+- **Description:** [AAAI 2025] Official implementation of "OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on"
 
 ### [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice)
 - **Description:** 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-### [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh)
+### [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)
 - **Description:** 技术面试最后反问面试官的话
 
 ### [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)
-- **Description:** Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+- **Description:** Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
 ### [lizongying/my-tv](https://github.com/lizongying/my-tv)
 - **Description:** 我的电视 电视直播软件，安装即可使用
@@ -357,7 +381,7 @@
 - **Description:** An Android app that can convert open(view) files to share(send) files.
 
 ### [SylarLong/iztro](https://github.com/SylarLong/iztro)
-- **Description:** ⭐A lightweight open-source JavaScript library for obtaining The Purple Star Astrology (Zi Wei Dou Shu) astrolabe information.. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
+- **Description:** ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
 
 ### [honojs/hono](https://github.com/honojs/hono)
 - **Description:** Web framework built on Web Standards
@@ -543,7 +567,7 @@
 - **Description:** Time Machine style backup with rsync.
 
 ### [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui)
-- **Description:** 一款好用的 Canvas 引擎，革新的开发体验，用于高效绘图 、UI 交互、图形编辑。A user-friendly Canvas engine with a revolutionary development experience, for efficient drawing, UI interactions, and graphic editing.
+- **Description:** 好用的 Canvas 引擎，轻松实现专业图形编辑。Easy-to-Use Canvas Engine. Effortless Professional Graphic Editing.
 
 ### [xbrowsersync/api](https://github.com/xbrowsersync/api)
 - **Description:** Server-side REST API that serves requests from xBrowserSync client apps
@@ -972,8 +996,8 @@
 ### [liabru/matter-js](https://github.com/liabru/matter-js)
 - **Description:** a 2D rigid body physics engine for the web ▲● ■
 
-### [reactnativecn/react-native-pushy](https://github.com/reactnativecn/react-native-pushy)
-- **Description:** React Native 极速热更新服务
+### [reactnativecn/react-native-update](https://github.com/reactnativecn/react-native-update)
+- **Description:** 🚀 Blazing Fast Hot Updates for React Native
 
 ### [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims)
 - **Description:** Shims for new ES modules features on top of the basic modules support in browsers
@@ -1030,7 +1054,7 @@
 - **Description:** A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 
 ### [vueuse/vueuse](https://github.com/vueuse/vueuse)
-- **Description:** Collection of essential Vue Composition Utilities for Vue 2 and 3
+- **Description:** Collection of essential Vue Composition Utilities for Vue 3
 
 ### [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview)
 - **Description:** 剑指前端 Offer
@@ -1091,7 +1115,7 @@
 - **Description:** Manage your Homebrew formulas with style using Cakebrew.
 
 ### [javierbyte/pintr](https://github.com/javierbyte/pintr)
-- **Description:** Create single line illustrations from your pictures. Get a drawing, SVG or coordinates for a CNC.
+- **Description:** Create single line illustrations from your pictures.
 
 ### [octokit/octokit.js](https://github.com/octokit/octokit.js)
 - **Description:** The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
@@ -1153,7 +1177,7 @@
 - **Description:** A web standards-compliant, high-performance rendering engine based on Flutter.
 
 ### [WICG/import-maps](https://github.com/WICG/import-maps)
-- **Description:** How to control the behavior of JavaScript imports
+- **Description:** Former home of import maps (now merged into HTML)
 
 ### [lerna/lerna](https://github.com/lerna/lerna)
 - **Description:** Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
