@@ -1,3 +1,12 @@
+### [PrismJS/prism](https://github.com/PrismJS/prism)
+- **Description:** Lightweight, robust, elegant syntax highlighting.
+
+### [codemirror/dev](https://github.com/codemirror/dev)
+- **Description:** Development repository for the CodeMirror editor project
+
+### [antfu/starter-vscode](https://github.com/antfu/starter-vscode)
+- **Description:** Starter template for VS Code Extension
+
 ### [VegaBobo/Language-Selector](https://github.com/VegaBobo/Language-Selector)
 - **Description:** Language Selector let users select individual app languages (Android 13+)
 
@@ -243,7 +252,7 @@
 ### [extension-js/extension.js](https://github.com/extension-js/extension.js)
 - **Description:** 🧩 The cross-browser extension framework.
 
-### [RSSNext/Follow](https://github.com/RSSNext/Follow)
+### [RSSNext/Folo](https://github.com/RSSNext/Folo)
 - **Description:** 🧡 Follow everything in one place
 
 ### [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)
@@ -942,9 +951,6 @@
 ### [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt)
 - **Description:** Telegram Web A, GPL v3
 
-### [rebornix/vscode-typing-practice](https://github.com/rebornix/vscode-typing-practice)
-- **Description:** Typing Practice with source code in your projects.
-
 ### [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js)
 - **Description:** Tag cloud/Wordle presentation on 2D canvas or HTML
 
@@ -1271,9 +1277,6 @@
 
 ### [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism)
 - **Description:** 🎉 Generate CSS for your Neumorphism designs
-
-### [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited)
-- **Description:** A browser extension to read medium.com articles for free without membership.
 
 ### [mapbox/mason-js](https://github.com/mapbox/mason-js)
 - **Description:** A Javascript client for Mason
