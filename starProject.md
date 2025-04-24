@@ -1,3 +1,27 @@
+### [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives)
+- **Description:** UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
+
+### [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
+- **Description:** ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+
+### [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
+- **Description:** Chrome Extension Boilerplate with React + Vite + Typescript
+
+### [browser-use/browser-use](https://github.com/browser-use/browser-use)
+- **Description:** Make websites accessible for AI agents
+
+### [unovue/inspira-ui](https://github.com/unovue/inspira-ui)
+- **Description:** Build beautiful website using Vue & Nuxt.
+
+### [whitphx/slidev-addon-fancy-arrow](https://github.com/whitphx/slidev-addon-fancy-arrow)
+- **Description:** Arrows with fancy styles and intuitive positioning for Slidev.
+
+### [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
+- **Description:** 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、最高音质
+
+### [guoyue2010/lxmusic-](https://github.com/guoyue2010/lxmusic-)
+- **Description:** lxmusic(洛雪音乐)全网最新最全音源
+
 ### [PrismJS/prism](https://github.com/PrismJS/prism)
 - **Description:** Lightweight, robust, elegant syntax highlighting.
 
@@ -23,7 +47,7 @@
 - **Description:** A cross-platform private song playback service.
 
 ### [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
-- **Description:** A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.
+- **Description:** A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
 
 ### [exelban/stats](https://github.com/exelban/stats)
 - **Description:** macOS system monitor in your menu bar
@@ -107,7 +131,7 @@
 - **Description:** Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ### [doocs/md](https://github.com/doocs/md)
-- **Description:** ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- **Description:** ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 
 ### [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde)
 - **Description:** Multi-platform app that allows your devices to communicate
@@ -259,7 +283,7 @@
 - **Description:** Wechat Chat History Exporter 微信聊天记录导出备份程序
 
 ### [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)
-- **Description:** 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
+- **Description:** 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 
 ### [biomejs/biome](https://github.com/biomejs/biome)
 - **Description:** A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -348,7 +372,6 @@
 - **Description:** 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
 
 ### [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)
-- **Description:** 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 
 ### [joevess/IPTV](https://github.com/joevess/IPTV)
 - **Description:** IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
@@ -511,9 +534,6 @@
 
 ### [sxyazi/yazi](https://github.com/sxyazi/yazi)
 - **Description:** 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-### [pengzhile/cocopilot](https://github.com/pengzhile/cocopilot)
-- **Description:** 你可以把它称为：联合副驾驶。
 
 ### [anseki/plain-draggable](https://github.com/anseki/plain-draggable)
 - **Description:** The simple and high performance library to allow HTML/SVG element to be dragged.
@@ -727,7 +747,7 @@
 - **Description:** :wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile
 
 ### [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin)
-- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
 ### [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
 - **Description:** 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -761,9 +781,6 @@
 
 ### [wellyshen/use-web-animations](https://github.com/wellyshen/use-web-animations)
 - **Description:** 😎 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
-
-### [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index)
-- **Description:** 健康码模拟 - 索引
 
 ### [vercel/satori](https://github.com/vercel/satori)
 - **Description:** Enlightened library to convert HTML and CSS to SVG
@@ -802,7 +819,7 @@
 - **Description:** 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 
 ### [ConardLi/tpanorama](https://github.com/ConardLi/tpanorama)
-- **Description:** 一款非常好用的全景生成，全景标记编辑插件！
+- **Description:** A very easy to use panorama generation, panorama mark editing plug-in!
 
 ### [pmndrs/zustand](https://github.com/pmndrs/zustand)
 - **Description:** 🐻 Bear necessities for state management in React
@@ -1368,7 +1385,7 @@
 - **Description:** NPM package development tool
 
 ### [alibaba/hooks](https://github.com/alibaba/hooks)
-- **Description:** A high-quality & reliable React Hooks library.   https://ahooks.pages.dev/
+- **Description:** A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
 
 ### [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript)
 - **Description:** A collection of awesome TypeScript resources for client-side and server-side development
@@ -1512,9 +1529,6 @@
 
 ### [haizlin/fe-interview](https://github.com/haizlin/fe-interview)
 - **Description:** 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-
-### [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
-- **Description:** :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 ### [KieSun/FE-advance-road](https://github.com/KieSun/FE-advance-road)
 - **Description:** 进阶资深前端开发
