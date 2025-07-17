@@ -1,3 +1,24 @@
+### [ranuts/document](https://github.com/ranuts/document)
+- **Description:** Perform common file preview and editing via the web.
+
+### [lin-snow/Ech0](https://github.com/lin-snow/Ech0)
+- **Description:** Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+
+### [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
+- **Description:** 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
+
+### [happytaoer/prompt-security](https://github.com/happytaoer/prompt-security)
+- **Description:** Prompt Security is a blazing-fast, zero-config Go tool that automatically detects and filters sensitive data from your clipboard—before it can leak to large language models ( LLMs) or online tools.
+
+### [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs)
+- **Description:** A web app for creating flexible layouts with the power of CSS Flexbox.
+
+### [Teamwork/visual-dom-diff](https://github.com/Teamwork/visual-dom-diff)
+- **Description:** Highlight differences between two DOM trees.
+
+### [koirodev/prismium](https://github.com/koirodev/prismium)
+- **Description:** A modern JavaScript accordion library with smooth animations. Easily integrates with React, Vue, and vanilla JavaScript.
+
 ### [VonChange/utao](https://github.com/VonChange/utao)
 - **Description:** 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台
 
@@ -32,7 +53,7 @@
 - **Description:** 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 
 ### [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
-- **Description:** 一款开源好用的游戏变速器
+- **Description:** 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
 
 ### [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch)
 - **Description:** Diff & patch JavaScript objects
@@ -83,7 +104,7 @@
 - **Description:** Language Selector let users select individual app languages (Android 13+)
 
 ### [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres)
-- **Description:** three+vue3<tres> : An open-source framework that enables rapid implementation of your 3D visualization projects [微信小程序 tvt.js tres.js three.js vue3 ts]
+- **Description:** three+vue3<tres> : An open-source framework that enables rapid implementation of your 3D visualization projects [tvt.js tres.js three.js vue3 ts]
 
 ### [lynx-family/lynx](https://github.com/lynx-family/lynx)
 - **Description:** Empower the Web community and invite more to build across platforms.
@@ -92,10 +113,10 @@
 - **Description:** Config of File Nesting for VS Code
 
 ### [any-listen/any-listen](https://github.com/any-listen/any-listen)
-- **Description:** A cross-platform private song playback service.
+- **Description:** A cross-platform private music playback service.
 
 ### [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
-- **Description:** A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+- **Description:** The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
 
 ### [exelban/stats](https://github.com/exelban/stats)
 - **Description:** macOS system monitor in your menu bar
@@ -116,7 +137,7 @@
 - **Description:** 纯html写的局域网文字/文件p2p传输工具
 
 ### [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-- **Description:** The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+- **Description:** Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
 ### [guozhigq/flutter_v2ex](https://github.com/guozhigq/flutter_v2ex)
 - **Description:** 使用flutter开发的v2ex客户端，支持Android和iOS设备。在Android 12+机型上支持Material You取色
@@ -217,7 +238,7 @@
 - **Description:** a set of tools for measuring and debugging performance of frontend applications
 
 ### [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime)
-- **Description:** The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
+- **Description:** The Simple Config Template Of Rime By Mintimate.  
 
 ### [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack)
 - **Description:** Deobfuscate obfuscator.io, unminify and unpack bundled javascript
@@ -408,7 +429,7 @@
 - **Description:** A UI library born for WAA
 
 ### [MrWangJustToDo/git-diff-view](https://github.com/MrWangJustToDo/git-diff-view)
-- **Description:** A Diff View component for React / Vue, just like Github
+- **Description:** A Diff View component for React / Vue / Solid / Svelte, just like Github
 
 ### [SuxueCode/WechatBakTool](https://github.com/SuxueCode/WechatBakTool)
 - **Description:** 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
@@ -783,7 +804,7 @@
 - **Description:** :wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile
 
 ### [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin)
-- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
 ### [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
 - **Description:** 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
