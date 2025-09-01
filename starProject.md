@@ -1,3 +1,21 @@
+### [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr)
+- **Description:** Multilingual Document Layout Parsing in a Single Vision-Language Model
+
+### [rhasspy/piper](https://github.com/rhasspy/piper)
+- **Description:** A fast, local neural text to speech system
+
+### [dromara/yft-design](https://github.com/dromara/yft-design)
+- **Description:** yft-design is a powerful, visually stunning online design tool built with Vue3, fabric.js, and Element Plus. 基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。
+
+### [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
+- **Description:**  State-of-the-art TTS model under 25MB 😻 
+
+### [kajweb/dict](https://github.com/kajweb/dict)
+- **Description:** 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
+
+### [KyleBing/english-vocabulary](https://github.com/KyleBing/english-vocabulary)
+- **Description:** 英文单词，英语单词，四六级 CET4 CET6、考研、SAT单词，txt 文件, json 文件
+
 ### [ueman/feedback](https://github.com/ueman/feedback)
 - **Description:** A simple widget for getting better feedback.
 
@@ -100,7 +118,7 @@
 ### [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS)
 - **Description:** Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/
 
-### [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus)
+### [Sjj1024/PacBao](https://github.com/Sjj1024/PacBao)
 - **Description:** Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 ### [yarlson/lnk](https://github.com/yarlson/lnk)
@@ -148,7 +166,7 @@
 - **Description:** 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 
 ### [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager)
-- **Description:** Modern, secure, and elegant server control panel, open source alternative to OpenResty Edge.
+- **Description:** Modern, secure, and elegant server control panel, alternative to OpenResty Edge and Nginx Proxy Manager.
 
 ### [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa)
 - **Description:** 🍀HuLa is a cross-platform instant messaging desktop application based on Tauri v2+Vue3, compatible with Windows, MacOS, Linux, Android, IOS  （HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
@@ -159,7 +177,7 @@
 - **Description:** A simple, decentralized mesh VPN with WireGuard support.
 
 ### [didi/dimina](https://github.com/didi/dimina)
-- **Description:** 星河小程序 - 滴滴开源小程序 / Dimina MiniProgram - DiDi's Open-Source MiniProgram Framework
+- **Description:** 星河小程序 - 滴滴开源小程序 / Dimina MiniProgram - DiDi's Open-Source MiniProgram
 
 ### [ryoppippi/sitemcp](https://github.com/ryoppippi/sitemcp)
 - **Description:** Fetch an entire site and use it as an MCP Server
@@ -209,7 +227,7 @@
 - **Description:** The simplest way to protect your apps with a login screen.
 
 ### [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know)
-- **Description:** 结合LightRAG 知识库的知识图谱智能体平台。LangGraph+ Vue + Flask。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
+- **Description:** 结合LightRAG 知识库的知识图谱智能体平台。LangGraph+ Vue + FastAPI。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
 
 ### [noneback/go-taskflow](https://github.com/noneback/go-taskflow)
 - **Description:** A pure go General-purpose Task-parallel Programming Framework with integrated visualizer and profiler
@@ -314,7 +332,7 @@
 - **Description:** Get your documents ready for gen AI
 
 ### [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-- **Description:** FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+- **Description:** FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
 
 ### [dariox64/editorjs-text-color-plugin](https://github.com/dariox64/editorjs-text-color-plugin)
 
@@ -499,7 +517,7 @@
 - **Description:** An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.
 
 ### [mnfst/manifest](https://github.com/mnfst/manifest)
-- **Description:** Manifest gives you a complete backend with data, storage, logic and an admin UI so you can ship your prototypes, MVPs and simple web apps fast. 🦚
+- **Description:** Portable backend to ship fast.
 
 ### [harishdeivanayagam/rowfill](https://github.com/harishdeivanayagam/rowfill)
 - **Description:** Open-source unstructured data (PDFs, Images, Audiofiles) processing platform built for knowledge workers
@@ -831,7 +849,7 @@
 - **Description:** A modular graph-based Retrieval-Augmented Generation (RAG) system
 
 ### [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
-- **Description:** RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- **Description:** RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 
 ### [datalab-to/surya](https://github.com/datalab-to/surya)
 - **Description:** OCR, layout analysis, reading order, table recognition in 90+ languages
@@ -2188,7 +2206,7 @@
 - **Description:** 好用的 Canvas 引擎，leafer 是核心代码库，leafer-ui 是入口仓库(stars 3.2k)。
 
 ### [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui)
-- **Description:** 好用的 Canvas 引擎，轻松实现专业图形编辑。Easy-to-Use Canvas Engine. Effortless Professional Graphic Editing.
+- **Description:** 好用的 Canvas 引擎。Easy-to-Use Canvas Engine. 
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 - **Description:** 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
@@ -2565,7 +2583,7 @@
 - **Description:** MidJourney client. Unofficial Node.js client
 
 ### [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
-- **Description:** Financial data aggregator for humans and AI agents.
+- **Description:** Financial data platform for analysts, quants and AI agents.
 
 ### [kira-96/ASS-file](https://github.com/kira-96/ASS-file)
 - **Description:** :cherry_blossom:ASS 字幕文件说明
@@ -4176,7 +4194,7 @@
 - **Description:** [微信开放平台] A fast wxopen development sdk written in Golang
 
 ### [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet)
-- **Description:** Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+- **Description:** Luckysheet upgraded to Univer
 
 ### [eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel)
 - **Description:** Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework
@@ -4304,7 +4322,7 @@
 - **Description:** A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.
 
 ### [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-- **Description:** 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+- **Description:** 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 
 ### [skishore/makemeahanzi](https://github.com/skishore/makemeahanzi)
 - **Description:** Free, open-source Chinese character data
@@ -4387,7 +4405,7 @@
 - **Description:** 🇨🇳🎨Chinese traditional color cheatsheet online
 
 ### [hankcs/HanLP](https://github.com/hankcs/HanLP)
-- **Description:** Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+- **Description:** 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 ### [memspace/zefyr](https://github.com/memspace/zefyr)
 - **Description:** Soft and gentle rich text editing for Flutter applications.
