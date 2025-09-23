@@ -1,3 +1,15 @@
+### [CaoMeiYouRen/caomei-auth](https://github.com/CaoMeiYouRen/caomei-auth)
+- **Description:** 草梅 Auth 是一个基于 Nuxt 全栈框架的统一登录平台。支持 OAuth2.0 协议，集成邮箱、用户名、手机号、验证码、社交媒体等多种登录注册方式。
+
+### [kekylin/debnas](https://github.com/kekylin/debnas)
+- **Description:** 一个将Debian系统快速配置成准NAS系统的脚本。
+
+### [RookieZoe/network-cabinet](https://github.com/RookieZoe/network-cabinet)
+- **Description:** A 3D modeling project featuring a custom-designed, non-standard network cabinet that can be integrated into home cabinetry.
+
+### [m1k1o/neko](https://github.com/m1k1o/neko)
+- **Description:** A self hosted virtual browser that runs in docker and uses WebRTC.
+
 ### [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - **Description:** A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
@@ -203,7 +215,7 @@
 - **Description:** Config of File Nesting for VS Code
 
 ### [any-listen/any-listen](https://github.com/any-listen/any-listen)
-- **Description:** A cross-platform private music playback service.
+- **Description:** A cross-platform private music playback service
 
 ### [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - **Description:** The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
