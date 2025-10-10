@@ -1,3 +1,24 @@
+### [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3)
+- **Description:** Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
+
+### [elevenlabs/ui](https://github.com/elevenlabs/ui)
+- **Description:** ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
+
+### [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+- **Description:** The beautiful & flexible React.js docs framework.
+
+### [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
+- **Description:** Fcitx5 input method framework and engines ported to Android
+
+### [mhss1/MyBrain](https://github.com/mhss1/MyBrain)
+- **Description:** All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
+
+### [advanced-chat/vue-advanced-chat](https://github.com/advanced-chat/vue-advanced-chat)
+- **Description:** A beautiful chat rooms web component compatible with all Javascript frameworks
+
+### [neovateai/neovate-code](https://github.com/neovateai/neovate-code)
+- **Description:** Neovate Code is a code agent to enhance your development. You can use it to generate code, fix bugs, review code, add tests, and more. You can run it in interactive mode or headless mode.
+
 ### [CaoMeiYouRen/caomei-auth](https://github.com/CaoMeiYouRen/caomei-auth)
 - **Description:** 草梅 Auth 是一个基于 Nuxt 全栈框架的统一登录平台。支持 OAuth2.0 协议，集成邮箱、用户名、手机号、验证码、社交媒体等多种登录注册方式。
 
@@ -20,7 +41,7 @@
 - **Description:** An app to view libraries used in apps in your device.
 
 ### [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
-- **Description:** A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+- **Description:** Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
 ### [orispok/OpenAnimationApp](https://github.com/orispok/OpenAnimationApp)
 - **Description:** Discover beautiful Lottie animations powered by Kotlin Multiplatform.
@@ -104,7 +125,7 @@
 - **Description:** Perform common file preview and editing via the web.
 
 ### [lin-snow/Ech0](https://github.com/lin-snow/Ech0)
-- **Description:** Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+- **Description:** Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 
 ### [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
 - **Description:** 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
@@ -703,9 +724,6 @@
 ### [bytedance/IconPark](https://github.com/bytedance/IconPark)
 - **Description:** 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 
-### [reqable/reqable-app](https://github.com/reqable/reqable-app)
-- **Description:** Reqable issue track repo
-
 ### [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)
 - **Description:** 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
@@ -1206,7 +1224,7 @@
 - **Description:** The smallest and fastest command-line coloring package on the internet
 
 ### [alibaba/x-render](https://github.com/alibaba/x-render)
-- **Description:** 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
+- **Description:** 🚴‍♀️ Very easy to use process form table chart solution. 很易用的流程 / 表单 / 表格 / 图表解决方案
 
 ### [swc-project/swc](https://github.com/swc-project/swc)
 - **Description:** Rust-based platform for the Web
