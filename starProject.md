@@ -1,3 +1,30 @@
+### [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+- **Description:** 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+
+### [NullPrivate/NullPrivate](https://github.com/NullPrivate/NullPrivate)
+- **Description:** Exploring the value that private DNS can bring us. SaaS offered.
+
+### [glink25/Cent](https://github.com/glink25/Cent)
+- **Description:** 完全免费、开源的多人协作记账 Web App | Completely free, open-source, collaborative accounting Web App
+
+### [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
+- **Description:** Generate a timeline of your day, automatically
+
+### [jdx/mise](https://github.com/jdx/mise)
+- **Description:** dev tools, env vars, task runner
+
+### [loro-dev/loro](https://github.com/loro-dev/loro)
+- **Description:** Make your JSON data collaborative and version-controlled with CRDTs
+
+### [tw93/Mole](https://github.com/tw93/Mole)
+- **Description:** 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+
+### [imputnet/helium](https://github.com/imputnet/helium)
+- **Description:** Private, fast, and honest web browser
+
+### [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+- **Description:** Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
 ### [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3)
 - **Description:** Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
 
@@ -23,7 +50,7 @@
 - **Description:** 草梅 Auth 是一个基于 Nuxt 全栈框架的统一登录平台。支持 OAuth2.0 协议，集成邮箱、用户名、手机号、验证码、社交媒体等多种登录注册方式。
 
 ### [kekylin/debnas](https://github.com/kekylin/debnas)
-- **Description:** 一个将Debian系统快速配置成准NAS系统的脚本。
+- **Description:** 一个将Debian快速配置成准NAS系统的脚本。
 
 ### [RookieZoe/network-cabinet](https://github.com/RookieZoe/network-cabinet)
 - **Description:** A 3D modeling project featuring a custom-designed, non-standard network cabinet that can be integrated into home cabinetry.
@@ -113,7 +140,7 @@
 - **Description:** Liquid Glass effect for React
 
 ### [zumerlab/snapdom](https://github.com/zumerlab/snapdom)
-- **Description:** snapDOM captures HTML elements to images with exceptional speed and accuracy.
+- **Description:** SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
 
 ### [fmhy/edit](https://github.com/fmhy/edit)
 - **Description:** Make changes to FMHY
@@ -145,8 +172,8 @@
 ### [VonChange/utao](https://github.com/VonChange/utao)
 - **Description:** 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台
 
-### [img-mapper/react-img-mapper](https://github.com/img-mapper/react-img-mapper)
-- **Description:** React Component to Highlight Interactive Zones in Images
+### [img-mapper/img-mapper](https://github.com/img-mapper/img-mapper)
+- **Description:** A React/Vue Component for Creating Interactive and Highlighted Zones on Images
 
 ### [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)
 - **Description:** Apple's Liquid Glass effect for React
@@ -175,7 +202,7 @@
 ### [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news)
 - **Description:** 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 
-### [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
+### [game1024/Speedy](https://github.com/game1024/Speedy)
 - **Description:** 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
 
 ### [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch)
@@ -376,7 +403,7 @@
 - **Description:** Create and animate hand-drawn annotations on a web page
 
 ### [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)
-- **Description:** The fast Rust-based web bundler with webpack-compatible API 🦀️
+- **Description:** The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
 
 ### [zhangxinxu/htmlapi](https://github.com/zhangxinxu/htmlapi)
 - **Description:** 书籍配套学习资源
@@ -463,7 +490,7 @@
 - **Description:** 🧩 The cross-browser extension framework.
 
 ### [RSSNext/Folo](https://github.com/RSSNext/Folo)
-- **Description:** 🧡 Follow everything in one place
+- **Description:** 🧡 Folo is the AI Reader
 
 ### [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 - **Description:** Wechat Chat History Exporter 微信聊天记录导出备份程序
@@ -510,7 +537,7 @@
 ### [shuding/photos](https://github.com/shuding/photos)
 
 ### [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
-- **Description:** 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+- **Description:** edgetunnel 2.0 VLESS/Trojan 多功能面板
 
 ### [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 - **Description:** An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
@@ -689,7 +716,7 @@
 - **Description:** Highly customizable org chart.  Integrations  available for Angular, React, Vue
 
 ### [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)
-- **Description:** Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
+- **Description:** Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 
 ### [Charca/astro-records](https://github.com/Charca/astro-records)
 - **Description:** Astro SPA Demo
@@ -749,7 +776,7 @@
 - **Description:** 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 
 ### [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman)
-- **Description:** Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- **Description:** The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 
 ### [juliangruber/balanced-match](https://github.com/juliangruber/balanced-match)
 - **Description:** Match balanced character pairs, like { and }
@@ -809,7 +836,7 @@
 - **Description:** A Zsh theme
 
 ### [ai/nanoid](https://github.com/ai/nanoid)
-- **Description:** A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- **Description:** A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 
 ### [afc163/fanyi](https://github.com/afc163/fanyi)
 - **Description:** A 🇨🇳 and 🇺🇸 translator in your command line
@@ -887,7 +914,7 @@
 ### [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
 - **Description:** ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
-### [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator)
+### [nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator)
 - **Description:** 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 
 ### [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report)
@@ -1283,7 +1310,7 @@
 - **Description:** UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
 
 ### [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy)
-- **Description:** Fast and secure standalone server for resizing and converting remote images
+- **Description:** Fast and secure standalone server for resizing, processing, and converting images on the fly
 
 ### [CaiJingLong/json2dart](https://github.com/CaiJingLong/json2dart)
 
@@ -1404,7 +1431,7 @@
 - **Description:** A triple-linked lists based DOM implementation.
 
 ### [metersphere/metersphere](https://github.com/metersphere/metersphere)
-- **Description:** MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+- **Description:** 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 
 ### [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 - **Description:** Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -1443,7 +1470,7 @@
 - **Description:** jump to local IDE code directly from browser React component by just a simple click
 
 ### [processing/p5.js](https://github.com/processing/p5.js)
-- **Description:** p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+- **Description:** p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org
 
 ### [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 - **Description:** A utility-first CSS framework for rapid UI development.
