@@ -1,8 +1,17 @@
+### [imzbf/md-editor-rt](https://github.com/imzbf/md-editor-rt)
+- **Description:** Markdown editor for react, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
+
+### [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff)
+- **Description:** A very fast SIMD-first image comparison library (with nodejs API)
+
+### [helloxz/nsfw](https://github.com/helloxz/nsfw)
+- **Description:** 轻量级NSFW识别方案，支持私有部署和HTTP API调用。
+
 ### [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
-- **Description:** 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+- **Description:** 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
 
 ### [NullPrivate/NullPrivate](https://github.com/NullPrivate/NullPrivate)
-- **Description:** Exploring the value that private DNS can bring us. SaaS offered.
+- **Description:** Exploring the value that private DNS can bring us. 
 
 ### [glink25/Cent](https://github.com/glink25/Cent)
 - **Description:** 完全免费、开源的多人协作记账 Web App | Completely free, open-source, collaborative accounting Web App
@@ -17,7 +26,7 @@
 - **Description:** Make your JSON data collaborative and version-controlled with CRDTs
 
 ### [tw93/Mole](https://github.com/tw93/Mole)
-- **Description:** 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+- **Description:** 🐹 Deep clean and optimize your Mac.
 
 ### [imputnet/helium](https://github.com/imputnet/helium)
 - **Description:** Private, fast, and honest web browser
@@ -83,7 +92,7 @@
 - **Description:** ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 
 ### [kanshurichard/GoHomeEasy](https://github.com/kanshurichard/GoHomeEasy)
-- **Description:** GoHomeEasy 是一个基于 Cloudflare Workers 的 Shadowsocks 订阅管理工具，专为 没有公网 IP 的家庭宽带用户 设计，能够在外部网络访问家庭局域网。
+- **Description:** GoHomeEasy is a Serverless-based (Cloudflare Workers / AWS Lambda) Shadowsocks/Clash subscription management tool, designed specifically for home broadband users without a public IP to access their home network remotely.
 
 ### [gdy666/lucky](https://github.com/gdy666/lucky)
 - **Description:** 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
@@ -95,7 +104,7 @@
 - **Description:** Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
 
 ### [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
-- **Description:** Frontier Open-Source Text-to-Speech
+- **Description:** Open-Source Frontier Voice AI
 
 ### [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)
 - **Description:** Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
@@ -199,7 +208,7 @@
 ### [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft)
 - **Description:** A Minecraft clone made with pure HTML & CSS – no JavaScript.
 
-### [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news)
+### [miantiao-me/hacker-podcast](https://github.com/miantiao-me/hacker-podcast)
 - **Description:** 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 
 ### [game1024/Speedy](https://github.com/game1024/Speedy)
@@ -487,7 +496,7 @@
 - **Description:** A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 
 ### [extension-js/extension.js](https://github.com/extension-js/extension.js)
-- **Description:** 🧩 The cross-browser extension framework.
+- **Description:** 🧩 The cross-browser extension framework
 
 ### [RSSNext/Folo](https://github.com/RSSNext/Folo)
 - **Description:** 🧡 Folo is the AI Reader
@@ -508,7 +517,7 @@
 - **Description:** jellyfin电影元数据插件
 
 ### [Wsine/feishu2md](https://github.com/Wsine/feishu2md)
-- **Description:** 一键命令下载飞书文档为 Markdown
+- **Description:** 一键命令下载飞书文档为 Markdown（寻找维护者）
 
 ### [step-saga/step-saga](https://github.com/step-saga/step-saga)
 - **Description:** An innovative framework designed to enhance the art of storytelling.
@@ -650,7 +659,7 @@
 - **Description:** 李跳跳APK包备份
 
 ### [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
-- **Description:** 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- **Description:** 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 ### [zhimin-dev/iptv-checker](https://github.com/zhimin-dev/iptv-checker)
 - **Description:** IPTV checker tool for Docker && Desktop && CMD, check your playlist is available
@@ -1149,7 +1158,7 @@
 - **Description:** ⚡️ Icon Explorer with Instant searching, powered by Iconify
 
 ### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
-- **Description:** :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+- **Description:** :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 ### [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)
 - **Description:** 🎉 performant confetti animation in the browser
@@ -1251,7 +1260,7 @@
 - **Description:** The smallest and fastest command-line coloring package on the internet
 
 ### [alibaba/x-render](https://github.com/alibaba/x-render)
-- **Description:** 🚴‍♀️ Very easy to use process form table chart solution. 很易用的流程 / 表单 / 表格 / 图表解决方案
+- **Description:** 🚴‍♀️ Very easy to use process form table chart solution.
 
 ### [swc-project/swc](https://github.com/swc-project/swc)
 - **Description:** Rust-based platform for the Web
@@ -1653,8 +1662,8 @@
 ### [MustangYM/WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)
 - **Description:** Mac版企业微信消息防撤回, 聊天会话去水印
 
-### [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)
-- **Description:** A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
+### [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak)
+- **Description:** A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 
 ### [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB)
 - **Description:** Web tool for database management
@@ -1714,7 +1723,7 @@
 - **Description:** 个人技术博客，博文写在 Issues 里。
 
 ### [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-- **Description:** 一个基于 electron 的音乐软件
+- **Description:** 一个基于 Electron 的音乐软件
 
 ### [haizlin/fe-interview](https://github.com/haizlin/fe-interview)
 - **Description:** 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
