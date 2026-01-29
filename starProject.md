@@ -1,3 +1,30 @@
+### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
+- **Description:** OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory.
+
+### [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js)
+- **Description:** Convert HTML to a multi-thousand-page vector PDF with a single line of frontend code
+
+### [scalar/scalar](https://github.com/scalar/scalar)
+- **Description:** Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
+
+### [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)
+- **Description:** Beautiful map components. 100% Free, Zero config, one command setup.
+
+### [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
+- **Description:** 🤖 A minimal and customizable Docker image running the Android emulator as a service.
+
+### [j-brooke/FracturedJsonJs](https://github.com/j-brooke/FracturedJsonJs)
+- **Description:** JSON formatter that produces highly readable but fairly compact output.
+
+### [j-brooke/FracturedJson](https://github.com/j-brooke/FracturedJson)
+- **Description:** JSON formatter that produces highly readable but fairly compact output. 
+
+### [Yuyz0112/koala-oss-app](https://github.com/Yuyz0112/koala-oss-app)
+- **Description:** Koala 聊开源频道 App
+
+### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+- **Description:** An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
 ### [imzbf/md-editor-rt](https://github.com/imzbf/md-editor-rt)
 - **Description:** Markdown editor for react, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
 
@@ -8,7 +35,7 @@
 - **Description:** 轻量级NSFW识别方案，支持私有部署和HTTP API调用。
 
 ### [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
-- **Description:** 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
+- **Description:** ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
 
 ### [NullPrivate/NullPrivate](https://github.com/NullPrivate/NullPrivate)
 - **Description:** Exploring the value that private DNS can bring us. 
@@ -211,7 +238,7 @@
 ### [miantiao-me/hacker-podcast](https://github.com/miantiao-me/hacker-podcast)
 - **Description:** 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 
-### [game1024/Speedy](https://github.com/game1024/Speedy)
+### [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
 - **Description:** 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
 
 ### [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch)
@@ -558,7 +585,7 @@
 - **Description:** ast-grep VSCode is a structural search and replace extension for many languages.
 
 ### [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor)
-- **Description:** A one-stop build analyzer for Rspack and webpack. Support us with a star ⭐️
+- **Description:** A one-stop build analyzer for Rspack and webpack.
 
 ### [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move)
 - **Description:** Smoothly animated code blocks with Shiki
@@ -653,7 +680,7 @@
 - **Description:** An unofficial Zerotier Android client patched from official client
 
 ### [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web)
-- **Description:** A remote debugging platform you can definitely use.
+- **Description:** A remote debugging platform you'll definitely find useful. Lightweight, cross-platform, out-of-box debugging tool
 
 ### [eddlez/litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup)
 - **Description:** 李跳跳APK包备份
@@ -1209,7 +1236,7 @@
 - **Description:** Presentation Slides for Developers
 
 ### [nocodb/nocodb](https://github.com/nocodb/nocodb)
-- **Description:** 🔥 🔥 🔥 Open Source Airtable Alternative
+- **Description:** 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ### [testdouble/scripty](https://github.com/testdouble/scripty)
 - **Description:** Because no one should be shell-scripting inside a JSON file.
@@ -1545,7 +1572,7 @@
 - **Description:** Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ### [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl)
-- **Description:** Stanford Javascript Crypto Library
+- **Description:** [DEPRECATED] Stanford Javascript Crypto Library
 
 ### [alibaba/kiwi](https://github.com/alibaba/kiwi)
 - **Description:** 🐤 Kiwi-国际化翻译全流程解决方案
@@ -1673,9 +1700,6 @@
 
 ### [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
 - **Description:** Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
-
-### [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
-- **Description:** :octocat: A collection of APIs
 
 ### [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats)
 - **Description:** ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
