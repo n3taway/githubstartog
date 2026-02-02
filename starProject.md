@@ -1,11 +1,8 @@
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
-- **Description:** OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory.
+- **Description:** AI memory OS for LLM and Agent systems, enabling persistent Skill memory for cross-task skill reuse and evolution.
 
 ### [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js)
 - **Description:** Convert HTML to a multi-thousand-page vector PDF with a single line of frontend code
-
-### [scalar/scalar](https://github.com/scalar/scalar)
-- **Description:** Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 
 ### [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)
 - **Description:** Beautiful map components. 100% Free, Zero config, one command setup.
