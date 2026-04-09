@@ -1,5 +1,43 @@
+### [Justineo/vue-clamp](https://github.com/Justineo/vue-clamp)
+- **Description:** Clamping multiline text with ease.
+
+### [tiktok/sparkling](https://github.com/tiktok/sparkling)
+- **Description:** Cross-platform infrastructure from TikTok. 
+
+### [epiral/bb-browser](https://github.com/epiral/bb-browser)
+- **Description:** Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
+
+### [garinasset/leak-check](https://github.com/garinasset/leak-check)
+- **Description:** 个人信息 “泄漏” 检测接口
+
+### [Innei/shuffle-article](https://github.com/Innei/shuffle-article)
+- **Description:** Shuffle text in the DOM while preserving visual rendering for lightweight copy protection.
+
+### [Thomascogez/npflared](https://github.com/Thomascogez/npflared)
+- **Description:** Open source npm registry fully hostable on Cloudflare 🔥
+
+### [aidenybai/react-grab](https://github.com/aidenybai/react-grab)
+- **Description:** Select context for coding agents directly from your website
+
+### [productdevbook/port-killer](https://github.com/productdevbook/port-killer)
+- **Description:** A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
+
+### [openclaw/openclaw](https://github.com/openclaw/openclaw)
+- **Description:** Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
+### [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli)
+- **Description:** A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
+
+### [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
+- **Description:** Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+
+### [trueleaf/apiflow](https://github.com/trueleaf/apiflow)
+- **Description:** A modern API workspace that works both online and offline — combining API documentation, testing, mock, and AI-powered automation in one lightweight tool
+
+### [liuw1535/antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs)
+
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
-- **Description:** AI memory OS for LLM and Agent systems, enabling persistent Skill memory for cross-task skill reuse and evolution.
+- **Description:** AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
 
 ### [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js)
 - **Description:** Convert HTML to a multi-thousand-page vector PDF with a single line of frontend code
@@ -32,7 +70,7 @@
 - **Description:** 轻量级NSFW识别方案，支持私有部署和HTTP API调用。
 
 ### [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
-- **Description:** ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
+- **Description:** ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
 
 ### [NullPrivate/NullPrivate](https://github.com/NullPrivate/NullPrivate)
 - **Description:** Exploring the value that private DNS can bring us. 
@@ -41,7 +79,7 @@
 - **Description:** 完全免费、开源的多人协作记账 Web App | Completely free, open-source, collaborative accounting Web App
 
 ### [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
-- **Description:** Generate a timeline of your day, automatically
+- **Description:** The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 
 ### [jdx/mise](https://github.com/jdx/mise)
 - **Description:** dev tools, env vars, task runner
@@ -173,19 +211,19 @@
 - **Description:** Liquid Glass effect for React
 
 ### [zumerlab/snapdom](https://github.com/zumerlab/snapdom)
-- **Description:** SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
+- **Description:** SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
 
 ### [fmhy/edit](https://github.com/fmhy/edit)
 - **Description:** Make changes to FMHY
 
 ### [iHongRen/configEditor](https://github.com/iHongRen/configEditor)
-- **Description:** Configs is a macOS application designed to help you easily manage and edit your configuration files. Based on SwiftUI. Configs 是一款 macOS 应用程序，旨在帮助您轻松管理和编辑您的配置文件,基于 SwiftUI。
+- **Description:** A macOS config file manager that lets you quickly view, edit, and manage configuration files on your computer (such as `.zshrc`, `.gitconfig`, etc.).  macOS 配置文件管理工具，快速查看、编辑和管理电脑上的各种配置文件
 
 ### [ranuts/document](https://github.com/ranuts/document)
 - **Description:** Perform common file preview and editing via the web.
 
 ### [lin-snow/Ech0](https://github.com/lin-snow/Ech0)
-- **Description:** Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
+- **Description:** Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
 
 ### [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
 - **Description:** 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
@@ -221,7 +259,7 @@
 - **Description:** Convert Lark Doc to Markdown
 
 ### [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg)
-- **Description:** Python FFmpeg wrappers support filters with typing and docs
+- **Description:** Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 
 ### [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel)
 - **Description:** A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
@@ -236,7 +274,7 @@
 - **Description:** 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 
 ### [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
-- **Description:** 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
+- **Description:** 🎮 An open-source game speed modifier.
 
 ### [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch)
 - **Description:** Diff & patch JavaScript objects
@@ -436,7 +474,7 @@
 - **Description:** Create and animate hand-drawn annotations on a web page
 
 ### [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)
-- **Description:** The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
+- **Description:** Fast Rust-based bundler for the web with a modernized webpack API 🦀
 
 ### [zhangxinxu/htmlapi](https://github.com/zhangxinxu/htmlapi)
 - **Description:** 书籍配套学习资源
@@ -520,10 +558,10 @@
 - **Description:** A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 
 ### [extension-js/extension.js](https://github.com/extension-js/extension.js)
-- **Description:** 🧩 The cross-browser extension framework
+- **Description:** The cross-browser extension framework.
 
 ### [RSSNext/Folo](https://github.com/RSSNext/Folo)
-- **Description:** 🧡 Folo is the AI Reader
+- **Description:** 🧡 Folo is the AI RSS Reader
 
 ### [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 - **Description:** Wechat Chat History Exporter 微信聊天记录导出备份程序
@@ -570,7 +608,7 @@
 ### [shuding/photos](https://github.com/shuding/photos)
 
 ### [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
-- **Description:** edgetunnel 2.0 VLESS/Trojan 多功能面板
+- **Description:** edgetunnel2 VLESS/Trojan 多功能面板
 
 ### [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 - **Description:** An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
@@ -638,7 +676,7 @@
 - **Description:** Animate your text changes
 
 ### [atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Description:** ✨ Magical shell history
+- **Description:** ✨ Making your shell magical
 
 ### [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)
 - **Description:** 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
@@ -686,7 +724,7 @@
 - **Description:** 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 ### [zhimin-dev/iptv-checker](https://github.com/zhimin-dev/iptv-checker)
-- **Description:** IPTV checker tool for Docker && Desktop && CMD, check your playlist is available
+- **Description:** IPTV checker tool for Docker && CMD, check your playlist is available
 
 ### [microsoft/inshellisense](https://github.com/microsoft/inshellisense)
 - **Description:** IDE style command line auto complete
@@ -743,7 +781,7 @@
 - **Description:** The Free Software Media System - Server Backend & API
 
 ### [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
-- **Description:** Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+- **Description:** Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 
 ### [bumbeishvili/org-chart](https://github.com/bumbeishvili/org-chart)
 - **Description:** Highly customizable org chart.  Integrations  available for Angular, React, Vue
@@ -845,7 +883,7 @@
 - **Description:** Simple magnifier for presentations (so that people can read the tiny texts)
 
 ### [navidrome/navidrome](https://github.com/navidrome/navidrome)
-- **Description:** 🎧☁️ Your Personal Streaming Service
+- **Description:** 🎧 Your Personal Streaming Service 
 
 ### [vercel/pkg](https://github.com/vercel/pkg)
 - **Description:** Package your Node.js project into an executable
@@ -897,7 +935,7 @@
 ### [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
 - **Description:** A framework for building compiled Node.js add-ons in Rust via Node-API
 
-### [patak-dev/vite-plugin-terminal](https://github.com/patak-dev/vite-plugin-terminal)
+### [patak-cat/vite-plugin-terminal](https://github.com/patak-cat/vite-plugin-terminal)
 - **Description:** Log in the node terminal from the browser
 
 ### [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
@@ -948,7 +986,7 @@
 - **Description:** ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
 ### [nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator)
-- **Description:** 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
+- **Description:** 基于 LLM 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 
 ### [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report)
 - **Description:** 简单描述工作内容，帮你生成完整周报
@@ -1023,7 +1061,7 @@
 - **Description:** Binary encoding optimised for Twitter
 
 ### [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)
-- **Description:** The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- **Description:** The modern toolkit for building drag and drop interfaces
 
 ### [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
 - **Description:** Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
@@ -1317,7 +1355,7 @@
 - **Description:** Generate model class from Json file. 一行命令，通过Json文件生成Dart Model类。
 
 ### [p697/cloudmusic](https://github.com/p697/cloudmusic)
-- **Description:** 网易云爬虫解决方案
+- **Description:** NetEase Cloud Music Spider Solution
 
 ### [xrr2016/neumorphism](https://github.com/xrr2016/neumorphism)
 
@@ -1353,7 +1391,7 @@
 ### [xudaolong/CodeVar](https://github.com/xudaolong/CodeVar)
 - **Description:** 生成可用的代码变量 (CodeVar that return u a better variable from Chinese to English . )
 
-### [bitepeng/b0pass](https://github.com/bitepeng/b0pass)
+### [jinsi-ai/b0pass](https://github.com/jinsi-ai/b0pass)
 - **Description:** 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 
 ### [cmoseses/cmoseses.github.io](https://github.com/cmoseses/cmoseses.github.io)
@@ -1464,7 +1502,7 @@
 - **Description:** A triple-linked lists based DOM implementation.
 
 ### [metersphere/metersphere](https://github.com/metersphere/metersphere)
-- **Description:** 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+- **Description:** MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 
 ### [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 - **Description:** Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -1654,7 +1692,7 @@
 - **Description:** The most powerful data validation library for JS
 
 ### [popomore/projj](https://github.com/popomore/projj)
-- **Description:** Manage repository easily.
+- **Description:** Manage git repositories with directory conventions.
 
 ### [AEPKILL/devtools-detector](https://github.com/AEPKILL/devtools-detector)
 - **Description:** Detect if DevTools is open
@@ -1669,7 +1707,7 @@
 - **Description:** A lightweight Node.js private proxy registry
 
 ### [halo-dev/halo](https://github.com/halo-dev/halo)
-- **Description:** 强大易用的开源建站工具。
+- **Description:** Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 
 ### [getgridea/gridea](https://github.com/getgridea/gridea)
 - **Description:** ✍️ A static blog writing client (一个静态博客写作客户端)
@@ -1705,7 +1743,7 @@
 - **Description:** A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 
 ### [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-- **Description:** The best React-based framework with performance, scalability and security built in.
+- **Description:** React-based framework with performance, scalability, and security built in.
 
 ### [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 - **Description:** A fluent API to FFMPEG (http://www.ffmpeg.org)
@@ -1805,7 +1843,7 @@
 - **Description:** 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 ### [Tencent/APIJSON](https://github.com/Tencent/APIJSON)
-- **Description:** 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
+- **Description:** 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
 
 ### [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 - **Description:** Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
