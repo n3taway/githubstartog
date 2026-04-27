@@ -421,25 +421,8 @@
       "own-your-data",
       "personal"
     ],
-    "stargazers_count": 364692,
-    "updated_at": "2026-04-27T02:14:52Z",
-    "ai_tag": {
-      "group": "",
-      "tags": null,
-      "desc": ""
-    }
-  },
-  {
-    "name": "twitter-cli",
-    "full_name": "public-clis/twitter-cli",
-    "url": "https://api.github.com/repos/public-clis/twitter-cli",
-    "html_url": "https://github.com/public-clis/twitter-cli",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
-    "homepage": null,
-    "language": "Python",
-    "topics": [],
-    "stargazers_count": 2322,
-    "updated_at": "2026-04-26T19:01:22Z",
+    "stargazers_count": 364694,
+    "updated_at": "2026-04-27T02:17:14Z",
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -689,8 +672,8 @@
       "uikit",
       "windsurf-ai"
     ],
-    "stargazers_count": 70896,
-    "updated_at": "2026-04-27T02:14:09Z",
+    "stargazers_count": 70897,
+    "updated_at": "2026-04-27T02:15:48Z",
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -796,8 +779,8 @@
       "wechat",
       "wework"
     ],
-    "stargazers_count": 55376,
-    "updated_at": "2026-04-27T02:14:55Z",
+    "stargazers_count": 55377,
+    "updated_at": "2026-04-27T02:16:21Z",
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1303,8 +1286,8 @@
       "tauri-app",
       "windows"
     ],
-    "stargazers_count": 113662,
-    "updated_at": "2026-04-27T02:14:07Z",
+    "stargazers_count": 113663,
+    "updated_at": "2026-04-27T02:16:51Z",
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3739,8 +3722,8 @@
       "vercel",
       "webui"
     ],
-    "stargazers_count": 87811,
-    "updated_at": "2026-04-27T01:48:05Z",
+    "stargazers_count": 87812,
+    "updated_at": "2026-04-27T02:17:14Z",
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5463,8 +5446,8 @@
       "react",
       "video"
     ],
-    "stargazers_count": 44730,
-    "updated_at": "2026-04-27T02:05:17Z",
+    "stargazers_count": 44731,
+    "updated_at": "2026-04-27T02:16:05Z",
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6192,8 +6175,8 @@
       "x86",
       "x86-64"
     ],
-    "stargazers_count": 76171,
-    "updated_at": "2026-04-27T02:05:20Z",
+    "stargazers_count": 76172,
+    "updated_at": "2026-04-27T02:16:53Z",
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7765,8 +7748,8 @@
       "reasonml",
       "version"
     ],
-    "stargazers_count": 25261,
-    "updated_at": "2026-04-27T01:12:15Z",
+    "stargazers_count": 25262,
+    "updated_at": "2026-04-27T02:15:30Z",
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7999,8 +7982,8 @@
     "homepage": null,
     "language": null,
     "topics": [],
-    "stargazers_count": 13560,
-    "updated_at": "2026-04-27T01:44:02Z",
+    "stargazers_count": 13561,
+    "updated_at": "2026-04-27T02:15:50Z",
     "ai_tag": {
       "group": "",
       "tags": null,

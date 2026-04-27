@@ -52,9 +52,6 @@
 ### [openclaw/openclaw](https://github.com/openclaw/openclaw)
 - **Description:** Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-### [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli)
-- **Description:** A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
-
 ### [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
 - **Description:** Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
