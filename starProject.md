@@ -1,5 +1,32 @@
+### [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl)
+- **Description:** Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持数十个音乐/有声读物平台，例如网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music，Spotify，Qobuz，SoundCloud等主流音乐平台)
+
+### [AlexanOliveira/fish-shell-windows](https://github.com/AlexanOliveira/fish-shell-windows)
+- **Description:** > A super complete tutorial on how to install Fish Shell on Windows (WSL), Linux and Mac, and configure Terminal's appearance | | | > Um tutorial super completo de como instalar o Fish Shell no Windows (WSL), Linux e Mac e configurar o visual do Terminal 
+
+### [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+- **Description:** Free monospaced font with programming ligatures
+
+### [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
+- **Description:** pierre’s open source code
+
+### [midudev/autoskills](https://github.com/midudev/autoskills)
+- **Description:** One command. Your entire AI skill stack. Installed.
+
+### [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop)
+- **Description:** A new handy and powerful Android phone assistant， powered by Flutter.
+
+### [hypooo/app-store-price](https://github.com/hypooo/app-store-price)
+- **Description:** App Store 价格查询 - 查询应用在不同地区的价格和内购信息
+
+### [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite)
+- **Description:** A highly opinionated, zero-configuration linter and formatter.
+
+### [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+- **Description:** Clone any website with one command using AI coding agents
+
 ### [Justineo/vue-clamp](https://github.com/Justineo/vue-clamp)
-- **Description:** Clamping multiline text with ease.
+- **Description:** Clamping primitives for Vue.
 
 ### [tiktok/sparkling](https://github.com/tiktok/sparkling)
 - **Description:** Cross-platform infrastructure from TikTok. 
@@ -133,13 +160,13 @@
 - **Description:** A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost)
-- **Description:** 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。
+- **Description:** 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业输入法。在墨奇输入法内置，欢迎使用。
 
 ### [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker)
 - **Description:** An app to view libraries used in apps in your device.
 
 ### [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
-- **Description:** Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- **Description:** Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
 ### [orispok/OpenAnimationApp](https://github.com/orispok/OpenAnimationApp)
 - **Description:** Discover beautiful Lottie animations powered by Kotlin Multiplatform.
@@ -172,7 +199,7 @@
 - **Description:** Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
 
 ### [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p)
-- **Description:** 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
+- **Description:** 🖥️ P2P Remote Desktop - Portable peer-to-peer remote desktop with no installation required.
 
 ### [jrsinclair/functional-maze](https://github.com/jrsinclair/functional-maze)
 - **Description:** A simple maze generator
@@ -193,7 +220,7 @@
 - **Description:** Bidirectional Channels for JavaScript
 
 ### [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
-- **Description:** 一款提示词优化器，助力于编写高质量的提示词
+- **Description:** An AI prompt optimizer for writing better prompts and getting better AI results.
 
 ### [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice)
 - **Description:** 简历警察 🕵️‍♂️ 疯狂逮捕
@@ -211,7 +238,7 @@
 - **Description:** Liquid Glass effect for React
 
 ### [zumerlab/snapdom](https://github.com/zumerlab/snapdom)
-- **Description:** SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
+- **Description:** SnapDOM: DOM to anything engine — fast, modular, extensible.
 
 ### [fmhy/edit](https://github.com/fmhy/edit)
 - **Description:** Make changes to FMHY
@@ -258,7 +285,7 @@
 ### [whale4113/cloud-document-converter](https://github.com/whale4113/cloud-document-converter)
 - **Description:** Convert Lark Doc to Markdown
 
-### [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg)
+### [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg)
 - **Description:** Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 
 ### [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel)
@@ -325,7 +352,7 @@
 - **Description:** Language Selector let users select individual app languages (Android 13+)
 
 ### [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres)
-- **Description:** Vue 3 + TresJS integration for Three.js 3D graphics. [tvt.js tres.js three.js vue3 ts]
+- **Description:** 🎉一款让你的三维可视化项目快速落地的开源框架，天然具备良好的跨平台与🎊国产化适配能力 支持低代码编辑器、Web / 小程序 / App 全端部署，永久免费商用。 融合数字孪生、三维可视化（WebGL / WebGPU / three.js / tres.js / tvt.js），并扩展 AI 能力（Skills / OpenSpec），助力智能化场景快速构建 🚀
 
 ### [lynx-family/lynx](https://github.com/lynx-family/lynx)
 - **Description:** Empower the Web community and invite more to build across platforms.
@@ -871,7 +898,7 @@
 - **Description:** Time Machine style backup with rsync.
 
 ### [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui)
-- **Description:** 好用的 Canvas 引擎。Easy-to-Use Canvas Engine. 
+- **Description:** 好用的 Canvas 引擎，轻松实现图形交互与编辑，AI 时代的无限画布引擎。An easy-to-use Canvas engine for effortless graphic interaction and editing — an infinite canvas engine for the AI era. 
 
 ### [xbrowsersync/api](https://github.com/xbrowsersync/api)
 - **Description:** Server-side REST API that serves requests from xBrowserSync client apps
@@ -1677,9 +1704,6 @@
 ### [immerjs/immer](https://github.com/immerjs/immer)
 - **Description:** Create the next immutable state by mutating the current one
 
-### [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
-- **Description:** Free monospaced font with programming ligatures
-
 ### [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
 - **Description:** 🧛🏻‍♂️ One theme. All platforms.
 
@@ -1783,9 +1807,6 @@
 
 ### [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
 - **Description:** 一个基于 Electron 的音乐软件
-
-### [haizlin/fe-interview](https://github.com/haizlin/fe-interview)
-- **Description:** 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 
 ### [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
 - **Description:** :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
