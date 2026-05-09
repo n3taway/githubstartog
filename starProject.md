@@ -142,9 +142,6 @@
 ### [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - **Description:** A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
-### [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost)
-- **Description:** 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业输入法。在墨奇输入法内置，欢迎使用。
-
 ### [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker)
 - **Description:** An app to view libraries used in apps in your device.
 
@@ -1819,9 +1816,6 @@
 ### [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
 - **Description:** API Documentation Browser
 
-### [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga)
-- **Description:** An alternative side effect model for Redux apps
-
 ### [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - **Description:** 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
@@ -1830,9 +1824,6 @@
 
 ### [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 - **Description:** Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-
-### [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command)
-- **Description:** Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ### [react-icons/react-icons](https://github.com/react-icons/react-icons)
 - **Description:** svg react icons of popular icon packs
@@ -1870,12 +1861,6 @@
 ### [amir20/phantomjs-node](https://github.com/amir20/phantomjs-node)
 - **Description:** PhantomJS integration module for NodeJS
 
-### [d2-projects/d2-daily](https://github.com/d2-projects/d2-daily)
-- **Description:** D2 日报
-
-### [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)
-- **Description:** TypeScript 入门教程
-
 ### [cipchk/vscode-cssrem](https://github.com/cipchk/vscode-cssrem)
 - **Description:** Converts between `px` and `rem` units in VSCode
 
@@ -1896,9 +1881,6 @@
 ### [abedormancy/tinydownloader](https://github.com/abedormancy/tinydownloader)
 - **Description:** a tiny downloader with console panel.
 
-### [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
-- **Description:** 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-
 ### [pmndrs/react-spring](https://github.com/pmndrs/react-spring)
 - **Description:** ✌️ A spring physics based React animation library
 
@@ -1908,32 +1890,14 @@
 ### [aceakash/string-similarity](https://github.com/aceakash/string-similarity)
 - **Description:** Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
 
-### [jawil/blog](https://github.com/jawil/blog)
-- **Description:** Too young, too simple. Sometimes, naive & stupid 🐌
-
-### [fi3ework/blog](https://github.com/fi3ework/blog)
-- **Description:** 📝
-
 ### [fengmk2/ChinaMobilePhoneNumberRegex](https://github.com/fengmk2/ChinaMobilePhoneNumberRegex)
 - **Description:** Regular expressions that match the mobile phone number in mainland China.
-
-### [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down)
-- **Description:** http下载工具，基于http代理，支持多连接分块下载
 
 ### [minwe/jetbrains-react](https://github.com/minwe/jetbrains-react)
 - **Description:** React.js live templates for JetBrains editors.
 
-### [rilyu/teaset](https://github.com/rilyu/teaset)
-- **Description:** A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
-
 ### [Kenshin/simpread-little](https://github.com/Kenshin/simpread-little)
 - **Description:** 简悦( SimpRead ) · 轻阅版
-
-### [paulirish/harmony](https://github.com/paulirish/harmony)
-- **Description:** Procedural Drawing Tool - my fork reduces it down to be integrated elsewhere
-
-### [yscoder/hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo)
-- **Description:** 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
 
 ### [Kenshin/simpread](https://github.com/Kenshin/simpread)
 - **Description:** 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
@@ -1941,15 +1905,6 @@
 ### [alivebao/clean-code-js](https://github.com/alivebao/clean-code-js)
 - **Description:** JavaScript风格指南
 
-### [XX-net/XX-Net](https://github.com/XX-net/XX-Net)
-- **Description:** A proxy tool to bypass GFW.
-
-### [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock)
-- **Description:** A persistent service that generates mock data quickly and provids visualization view.
-
 ### [qianlongo/resume-native](https://github.com/qianlongo/resume-native)
 - **Description:** 一个用原生js写的会动的简历
-
-### [lmk123/blog](https://github.com/lmk123/blog)
-- **Description:** 个人技术博客，博文写在 Issues 里。
 
