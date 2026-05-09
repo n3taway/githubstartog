@@ -1,3 +1,9 @@
+### [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)
+- **Description:** A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
+
+### [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)
+- **Description:** 🔥 Clone and recreate any website as a modern React app in seconds
+
 ### [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl)
 - **Description:** Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持数十个音乐/有声读物平台，例如网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music，Spotify，Qobuz，SoundCloud等主流音乐平台)
 
@@ -12,9 +18,6 @@
 
 ### [midudev/autoskills](https://github.com/midudev/autoskills)
 - **Description:** One command. Your entire AI skill stack. Installed.
-
-### [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop)
-- **Description:** A new handy and powerful Android phone assistant， powered by Flutter.
 
 ### [hypooo/app-store-price](https://github.com/hypooo/app-store-price)
 - **Description:** App Store 价格查询 - 查询应用在不同地区的价格和内购信息
@@ -31,9 +34,6 @@
 ### [tiktok/sparkling](https://github.com/tiktok/sparkling)
 - **Description:** Cross-platform infrastructure from TikTok. 
 
-### [epiral/bb-browser](https://github.com/epiral/bb-browser)
-- **Description:** Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
-
 ### [garinasset/leak-check](https://github.com/garinasset/leak-check)
 - **Description:** 个人信息 “泄漏” 检测接口
 
@@ -44,7 +44,7 @@
 - **Description:** Open source npm registry fully hostable on Cloudflare 🔥
 
 ### [aidenybai/react-grab](https://github.com/aidenybai/react-grab)
-- **Description:** Select context for coding agents directly from your website
+- **Description:** Copy any UI element for your agent
 
 ### [productdevbook/port-killer](https://github.com/productdevbook/port-killer)
 - **Description:** A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
@@ -57,11 +57,6 @@
 
 ### [trueleaf/apiflow](https://github.com/trueleaf/apiflow)
 - **Description:** A modern API workspace that works both online and offline — combining API documentation, testing, mock, and AI-powered automation in one lightweight tool
-
-### [liuw1535/antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs)
-
-### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
-- **Description:** AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
 
 ### [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js)
 - **Description:** Convert HTML to a multi-thousand-page vector PDF with a single line of frontend code
@@ -80,9 +75,6 @@
 
 ### [Yuyz0112/koala-oss-app](https://github.com/Yuyz0112/koala-oss-app)
 - **Description:** Koala 聊开源频道 App
-
-### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-- **Description:** An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 ### [imzbf/md-editor-rt](https://github.com/imzbf/md-editor-rt)
 - **Description:** Markdown editor for react, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
@@ -128,12 +120,6 @@
 
 ### [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
 - **Description:** The beautiful & flexible React.js docs framework.
-
-### [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
-- **Description:** Fcitx5 input method framework and engines ported to Android
-
-### [mhss1/MyBrain](https://github.com/mhss1/MyBrain)
-- **Description:** All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 
 ### [advanced-chat/vue-advanced-chat](https://github.com/advanced-chat/vue-advanced-chat)
 - **Description:** A beautiful chat rooms web component compatible with all Javascript frameworks
@@ -235,7 +221,7 @@
 - **Description:** Liquid Glass effect for React
 
 ### [zumerlab/snapdom](https://github.com/zumerlab/snapdom)
-- **Description:** SnapDOM: DOM to anything engine — fast, modular, extensible.
+- **Description:** High-performance engine for capturing, modifying, and converting DOM elements into any format.
 
 ### [fmhy/edit](https://github.com/fmhy/edit)
 - **Description:** Make changes to FMHY
@@ -276,17 +262,11 @@
 ### [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList)
 - **Description:** A new AList Fork to Anti Trust Crisis
 
-### [8enet/Charles-Crack](https://github.com/8enet/Charles-Crack)
-- **Description:** Removed according to DMCA.
-
 ### [whale4113/cloud-document-converter](https://github.com/whale4113/cloud-document-converter)
 - **Description:** Convert Lark Doc to Markdown
 
 ### [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg)
 - **Description:** Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
-
-### [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel)
-- **Description:** A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
 ### [liriliri/aya](https://github.com/liriliri/aya)
 - **Description:** Android ADB desktop app
@@ -400,7 +380,7 @@
 - **Description:** 洛雪音乐源
 
 ### [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
-- **Description:** Scan for React performance issues and eliminate slow renders in your app
+- **Description:** Scan and fix React performance issues
 
 ### [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
 - **Description:** 🏞 A lightweight, versatile image viewer
@@ -453,12 +433,6 @@
 ### [scopsy/await-to-js](https://github.com/scopsy/await-to-js)
 - **Description:** Async await wrapper for easy error handling without try-catch
 
-### [janarosmonaliev/github-globe](https://github.com/janarosmonaliev/github-globe)
-- **Description:** The Globe from Github's homepage implemented in ThreeJS with beautiful shading.
-
-### [FormidableLabs/use-editable](https://github.com/FormidableLabs/use-editable)
-- **Description:** A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)
-
 ### [Simon-He95/awesome-collections](https://github.com/Simon-He95/awesome-collections)
 - **Description:** 记录一下前端的书籍和常用的工具、插件和vscode配置
 
@@ -472,9 +446,6 @@
 
 ### [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
 - **Description:** 使用 腾讯X5 WebView 开发的电视直播App
-
-### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
-- **Description:** ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ### [ddahan/ui-libs](https://github.com/ddahan/ui-libs)
 - **Description:** A UI Lib Picker for Vue 3 / Nuxt 3/4
@@ -559,9 +530,6 @@
 
 ### [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
 - **Description:** A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
-
-### [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow)
-- **Description:** Simple flow library 🖥️🖱️
 
 ### [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 - **Description:** Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
@@ -1231,9 +1199,6 @@
 ### [missive/emoji-mart](https://github.com/missive/emoji-mart)
 - **Description:** 🏪 One component to pick them all
 
-### [xyflow/xyflow](https://github.com/xyflow/xyflow)
-- **Description:** React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
-
 ### [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno)
 - **Description:** An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 
@@ -1858,7 +1823,7 @@
 - **Description:** An alternative side effect model for Redux apps
 
 ### [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-- **Description:** 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+- **Description:** 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 ### [Tencent/APIJSON](https://github.com/Tencent/APIJSON)
 - **Description:** 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
