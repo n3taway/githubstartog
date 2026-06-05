@@ -1,3 +1,24 @@
+### [jeff141/meatshell](https://github.com/jeff141/meatshell)
+- **Description:** 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）
+
+### [nekocode/filetree-skill](https://github.com/nekocode/filetree-skill)
+- **Description:** A Claude Code plugin that maintains `FILETREE.md`.
+
+### [Laotree/verify-networking-plugin](https://github.com/Laotree/verify-networking-plugin)
+- **Description:** Network check before Claude Code starts — DNS, exit IP region, and TCP connectivity with 🟢🟡🔴 status
+
+### [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
+- **Description:** Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
+
+### [hughfenghen/dimcut](https://github.com/hughfenghen/dimcut)
+- **Description:** DimCut is a novel editing interaction design that folds the 1D timeline into multiple rows, integrating text, audio, and visuals — multidimensional information at a glance.
+
+### [Aaronius/penpal](https://github.com/Aaronius/penpal)
+- **Description:** Penpal simplifies communication with iframes, workers, and windows by using promise-based methods on top of postMessage.
+
+### [markdown-viewer/markdown-viewer-extension](https://github.com/markdown-viewer/markdown-viewer-extension)
+- **Description:** Markdown to perfect Word in one click — Mermaid, Vega, drawio, canvas, Infographic, Graphviz, LaTeX (editable), code highlighting, local processing
+
 ### [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)
 - **Description:** A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 
@@ -104,7 +125,7 @@
 - **Description:** Make your JSON data collaborative and version-controlled with CRDTs
 
 ### [tw93/Mole](https://github.com/tw93/Mole)
-- **Description:** 🐹 Deep clean and optimize your Mac.
+- **Description:** 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
 ### [imputnet/helium](https://github.com/imputnet/helium)
 - **Description:** Private, fast, and honest web browser
@@ -380,7 +401,7 @@
 - **Description:** Scan and fix React performance issues
 
 ### [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
-- **Description:** 🏞 A lightweight, versatile image viewer
+- **Description:** 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 
 ### [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer)
 - **Description:** An Android native video player
@@ -447,7 +468,7 @@
 ### [ddahan/ui-libs](https://github.com/ddahan/ui-libs)
 - **Description:** A UI Lib Picker for Vue 3 / Nuxt 3/4
 
-### [perfsee/perfsee](https://github.com/perfsee/perfsee)
+### [bytedance/perfsee](https://github.com/bytedance/perfsee)
 - **Description:** a set of tools for measuring and debugging performance of frontend applications
 
 ### [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack)
@@ -503,9 +524,6 @@
 
 ### [2noise/ChatTTS](https://github.com/2noise/ChatTTS)
 - **Description:** A generative speech model for daily dialogue.
-
-### [imputnet/cobalt](https://github.com/imputnet/cobalt)
-- **Description:** best way to save what you love
 
 ### [slab/quill](https://github.com/slab/quill)
 - **Description:** Quill is a modern WYSIWYG editor built for compatibility and extensibility
@@ -591,13 +609,10 @@
 ### [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells)
 - **Description:** Add interactive code snippets to any blog or webpage.
 
-### [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-- **Description:** An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
 ### [shuding/photos](https://github.com/shuding/photos)
 
 ### [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
-- **Description:** edgetunnel2 VLESS/Trojan 多功能面板
+- **Description:** edgetunnel2 VLESS/Trojan/SS 多功能面板
 
 ### [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 - **Description:** An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
@@ -619,9 +634,6 @@
 
 ### [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)
 - **Description:** 技术面试最后反问面试官的话
-
-### [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)
-- **Description:** Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
 ### [lizongying/my-tv](https://github.com/lizongying/my-tv)
 - **Description:** 我的电视 电视直播软件，安装即可使用
@@ -669,9 +681,6 @@
 
 ### [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)
 - **Description:** 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
-
-### [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap)
-- **Description:** 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 
 ### [liriliri/chii](https://github.com/liriliri/chii)
 - **Description:** Remote debugging tool
@@ -1005,7 +1014,7 @@
 - **Description:** :wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile
 
 ### [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin)
-- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
 ### [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
 - **Description:** 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -1226,7 +1235,7 @@
 ### [mojs/mojs](https://github.com/mojs/mojs)
 - **Description:** The motion graphics toolbelt for the web
 
-### [xjh22222228/boomb](https://github.com/xjh22222228/boomb)
+### [liuzi6612/boomb](https://github.com/liuzi6612/boomb)
 - **Description:** 💣 Manage your pictures easily for Github. 基于 Github 轻松管理您的存储图库
 
 ### [EtherDream/freecdn](https://github.com/EtherDream/freecdn)
@@ -1536,7 +1545,7 @@
 - **Description:** 实现最简 vue3 模型( Help you learn more efficiently vue3 source code )
 
 ### [gogs/gogs](https://github.com/gogs/gogs)
-- **Description:** Gogs is a painless self-hosted Git service
+- **Description:** The painless way to host your own Git service
 
 ### [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism)
 - **Description:** 🎉 Generate CSS for your Neumorphism designs
