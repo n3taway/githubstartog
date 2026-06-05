@@ -1728,29 +1728,14 @@
 ### [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
 - **Description:** Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 
-### [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats)
-- **Description:** ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-
 ### [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox)
 - **Description:** A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
-
-### [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-- **Description:** React-based framework with performance, scalability, and security built in.
-
-### [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
-- **Description:** A fluent API to FFMPEG (http://www.ffmpeg.org)
 
 ### [cmiscm/leonsans](https://github.com/cmiscm/leonsans)
 - **Description:** Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 
-### [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version)
-- **Description:** :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
-
 ### [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally)
 - **Description:** 🌍 All in one i18n extension for VS Code
-
-### [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)
-- **Description:** An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 
 ### [Gazler/githug](https://github.com/Gazler/githug)
 - **Description:** Git your game on!
