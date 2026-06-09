@@ -1,3 +1,18 @@
+### [HXZP/Lumina-host](https://github.com/HXZP/Lumina-host)
+- **Description:** Lumina-上位机
+
+### [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts)
+- **Description:** 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
+
+### [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+- **Description:** Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+
+### [whoamihappyhacking/di](https://github.com/whoamihappyhacking/di)
+- **Description:** A tiny wrapper around dtach for detachable terminal sessions.
+
+### [whoamihappyhacking/just-talk-go](https://github.com/whoamihappyhacking/just-talk-go)
+- **Description:** Just Talk 是一个面向桌面环境的语音输入工具。它通过全局快捷键录音，把语音识别结果复制到剪贴板，或直接上屏到当前输入框，适合写代码、聊天、记笔记和处理长文本输入。
+
 ### [jeff141/meatshell](https://github.com/jeff141/meatshell)
 - **Description:** 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）
 
@@ -429,9 +444,6 @@
 
 ### [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot)
 - **Description:** 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
-
-### [akazwz/extract](https://github.com/akazwz/extract)
-- **Description:** 一个使用 Cloudflare 浏览器渲染功能从任何网站提取图片的现代 Web 应用。基于 Remix 构建并部署在 Cloudflare Pages 上。
 
 ### [likeflyme/cloudbak](https://github.com/likeflyme/cloudbak)
 - **Description:** 微信云备份，备份到服务器、Docker、NAS，Web访问。
@@ -1343,7 +1355,7 @@
 ### [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
 - **Description:** Android real-time display control software
 
-### [flutter/gallery](https://github.com/flutter/gallery)
+### [flutter-team-archive/gallery](https://github.com/flutter-team-archive/gallery)
 - **Description:** Flutter Gallery was a resource to help developers evaluate and use Flutter
 
 ### [flutterchina/json_model](https://github.com/flutterchina/json_model)
@@ -1710,23 +1722,11 @@
 ### [realdennis/md2pdf](https://github.com/realdennis/md2pdf)
 - **Description:** Offline markdown to pdf, choose -> edit -> transform 🥂
 
-### [alibaba/pont](https://github.com/alibaba/pont)
-- **Description:** 🌉数据服务层解决方案
-
-### [MustangYM/WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)
-- **Description:** Mac版企业微信消息防撤回, 聊天会话去水印
-
 ### [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak)
 - **Description:** A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 
-### [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB)
-- **Description:** Web tool for database management
-
 ### [coder/code-server](https://github.com/coder/code-server)
 - **Description:** VS Code in the browser
-
-### [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
-- **Description:** Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 
 ### [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox)
 - **Description:** A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
