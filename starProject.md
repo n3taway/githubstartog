@@ -1,3 +1,15 @@
+### [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui)
+- **Description:** A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source.
+
+### [XueshiQiao/AnyDrag](https://github.com/XueshiQiao/AnyDrag)
+- **Description:** Modifier+drag to move any window smoothly on macOS, exactly like native speed
+
+### [XxMinor/mykvm](https://github.com/XxMinor/mykvm)
+- **Description:** Open-source cross-platform software KVM for sharing keyboard, mouse, and clipboard across Windows, macOS, and Linux on trusted LANs.
+
+### [yuanweize/LazyMount-Mac](https://github.com/yuanweize/LazyMount-Mac)
+- **Description:** A robust macOS mount manager for NAS gamers. Automatically mounts SMB & Rclone, detects network status, and auto-repairs "dirty" APFS sparsebundles to fix Steam "Disk Write Error" and permission issues.||专为 NAS 游戏玩家打造的 macOS 自动化挂载神器。支持 SMB/Rclone 自动挂载与断网重连，独创“外科手术式”修复逻辑，自动解决 APFS 脏盘导致的 Steam 磁盘写入错误和权限问题。
+
 ### [HXZP/Lumina-host](https://github.com/HXZP/Lumina-host)
 - **Description:** Lumina-上位机
 
@@ -854,7 +866,7 @@
 - **Description:** Making Docker and Kubernetes management easy.
 
 ### [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
-- **Description:** 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
+- **Description:** 音乐标签编辑器，可编辑本地音乐文件的元数据, 音乐刮削。（Editable local music file metadata.）
 
 ### [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman)
 - **Description:** The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
