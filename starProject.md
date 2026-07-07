@@ -1,3 +1,15 @@
+### [flyfish-dev/file-viewer](https://github.com/flyfish-dev/file-viewer)
+- **Description:** Browser-native Office / PDF / CAD / archive viewer for internal web apps, with Vue, React, Svelte, jQuery, Web Components, and no server-side conversion.
+
+### [ZekerTop/ai-cli-complete-notify](https://github.com/ZekerTop/ai-cli-complete-notify)
+- **Description:** 面向 Claude Code / Codex / OpenCode / Gemini  的多通道AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI摘要等功能
+
+### [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap)
+- **Description:** Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
+
+### [nyakang/nyaterm](https://github.com/nyakang/nyaterm)
+- **Description:** A modern remote terminal workspace
+
 ### [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui)
 - **Description:** A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source.
 
@@ -487,7 +499,7 @@
 - **Description:** A drawer component for React.
 
 ### [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
-- **Description:** 使用 腾讯X5 WebView 开发的电视直播App
+- **Description:** A TV Live Streaming App developed using Tencent X5 WebView
 
 ### [ddahan/ui-libs](https://github.com/ddahan/ui-libs)
 - **Description:** A UI Lib Picker for Vue 3 / Nuxt 3/4
@@ -1773,9 +1785,6 @@
 ### [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
 - **Description:** 一个基于 Electron 的音乐软件
 
-### [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
-- **Description:** :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
 ### [KieSun/FE-advance-road](https://github.com/KieSun/FE-advance-road)
 - **Description:** 进阶资深前端开发
 
@@ -1829,7 +1838,7 @@
 - **Description:** 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
 
 ### [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
-- **Description:** Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- **Description:** Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）
 
 ### [react-icons/react-icons](https://github.com/react-icons/react-icons)
 - **Description:** svg react icons of popular icon packs
