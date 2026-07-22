@@ -1,3 +1,21 @@
+### [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+- **Description:** Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+
+### [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
+- **Description:** A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
+
+### [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac)
+- **Description:** Surge-style whole-home gateway and control plane for macOS — mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
+
+### [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+- **Description:** 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+### [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)
+- **Description:** Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
+
+### [mattpocock/skills](https://github.com/mattpocock/skills)
+- **Description:** Skills for Real Engineers. Straight from my .agents directory.
+
 ### [flyfish-dev/file-viewer](https://github.com/flyfish-dev/file-viewer)
 - **Description:** Browser-native Office / PDF / CAD / archive viewer for internal web apps, with Vue, React, Svelte, jQuery, Web Components, and no server-side conversion.
 
@@ -39,9 +57,6 @@
 
 ### [jeff141/meatshell](https://github.com/jeff141/meatshell)
 - **Description:** 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）
-
-### [nekocode/filetree-skill](https://github.com/nekocode/filetree-skill)
-- **Description:** A Claude Code plugin that maintains `FILETREE.md`.
 
 ### [Laotree/verify-networking-plugin](https://github.com/Laotree/verify-networking-plugin)
 - **Description:** Network check before Claude Code starts — DNS, exit IP region, and TCP connectivity with 🟢🟡🔴 status
@@ -155,7 +170,7 @@
 - **Description:** 完全免费、开源的多人协作记账 Web App | Completely free, open-source, collaborative accounting Web App
 
 ### [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
-- **Description:** The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
+- **Description:** The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 
 ### [jdx/mise](https://github.com/jdx/mise)
 - **Description:** dev tools, env vars, task runner
@@ -932,7 +947,7 @@
 - **Description:** 🚀 Automate versioning and package publishing
 
 ### [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
-- **Description:** :package::rocket: Fully automated version management and package publishing
+- **Description:** 📦🚀 Fully automated version management and package publishing
 
 ### [privatenumber/tsx](https://github.com/privatenumber/tsx)
 - **Description:** ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
@@ -1184,7 +1199,7 @@
 ### [ranyitz/qnm](https://github.com/ranyitz/qnm)
 - **Description:** :mag: cli utility for querying the node_modules directory
 
-### [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov)
+### [AsimovMac/asimov](https://github.com/AsimovMac/asimov)
 - **Description:** Automatically exclude development dependencies from Apple Time Machine backups
 
 ### [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf)
@@ -1872,9 +1887,6 @@
 
 ### [fengxianqi/remember-scroll](https://github.com/fengxianqi/remember-scroll)
 - **Description:** :dart: A plugin using localStorage to remember element scroll-position when closed the page. 
-
-### [amir20/phantomjs-node](https://github.com/amir20/phantomjs-node)
-- **Description:** PhantomJS integration module for NodeJS
 
 ### [cipchk/vscode-cssrem](https://github.com/cipchk/vscode-cssrem)
 - **Description:** Converts between `px` and `rem` units in VSCode
