@@ -1,11 +1,29 @@
+### [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
+- **Description:** a fast, scalable, multi-language and extensible build system
+
+### [yetone/cumora](https://github.com/yetone/cumora)
+- **Description:** Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+
+### [davatron5000/microlighter](https://github.com/davatron5000/microlighter)
+- **Description:** A zero-dep syntax highlighter that uses the CSS Highlights API
+
+### [iAmCorey/birth](https://github.com/iAmCorey/birth)
+- **Description:** 一目了然地管理你的电脑启动项 | 开源 macOS 启动项管理器
+
+### [Jinjiang/joy-con-codex-micro](https://github.com/Jinjiang/joy-con-codex-micro)
+- **Description:** A native macOS companion that turns an already paired Nintendo Switch Joy-Con into a configurable keyboard-shortcut controller.
+
+### [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+- **Description:** Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
 ### [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-- **Description:** Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- **Description:** Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
 ### [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
-- **Description:** A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
+- **Description:** A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
 ### [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac)
-- **Description:** Surge-style whole-home gateway and control plane for macOS — mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
+- **Description:** Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
 
 ### [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
 - **Description:** 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -55,7 +73,7 @@
 ### [whoamihappyhacking/just-talk-go](https://github.com/whoamihappyhacking/just-talk-go)
 - **Description:** Just Talk 是一个面向桌面环境的语音输入工具。它通过全局快捷键录音，把语音识别结果复制到剪贴板，或直接上屏到当前输入框，适合写代码、聊天、记笔记和处理长文本输入。
 
-### [jeff141/meatshell](https://github.com/jeff141/meatshell)
+### [yituorou/meatshell](https://github.com/yituorou/meatshell)
 - **Description:** 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）
 
 ### [Laotree/verify-networking-plugin](https://github.com/Laotree/verify-networking-plugin)
@@ -125,7 +143,7 @@
 - **Description:** A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 
 ### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-- **Description:** Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- **Description:** The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
 - **Description:** Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -134,7 +152,7 @@
 - **Description:** A modern API workspace that works both online and offline — combining API documentation, testing, mock, and AI-powered automation in one lightweight tool
 
 ### [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js)
-- **Description:** Convert HTML to a multi-thousand-page vector PDF with a single line of frontend code
+- **Description:** Turn HTML into a 500-page vector PDF in 1 second. Open source.
 
 ### [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)
 - **Description:** Beautiful map components. 100% Free, Zero config, one command setup.
@@ -179,7 +197,7 @@
 - **Description:** Make your JSON data collaborative and version-controlled with CRDTs
 
 ### [tw93/Mole](https://github.com/tw93/Mole)
-- **Description:** 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- **Description:** 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 
 ### [imputnet/helium](https://github.com/imputnet/helium)
 - **Description:** Private, fast, and honest web browser
@@ -196,8 +214,8 @@
 ### [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
 - **Description:** The beautiful & flexible React.js docs framework.
 
-### [advanced-chat/vue-advanced-chat](https://github.com/advanced-chat/vue-advanced-chat)
-- **Description:** A beautiful chat rooms web component compatible with all Javascript frameworks
+### [advanced-chat/advanced-chat-components](https://github.com/advanced-chat/advanced-chat-components)
+- **Description:** Framework-neutral chat web component and typed Vue 3 component library
 
 ### [neovateai/neovate-code](https://github.com/neovateai/neovate-code)
 - **Description:** Neovate Code is a code agent to enhance your development. You can use it to generate code, fix bugs, review code, add tests, and more. You can run it in interactive mode or headless mode.
@@ -250,8 +268,8 @@
 ### [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 - **Description:** Open-Source Frontier Voice AI
 
-### [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)
-- **Description:** Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
+### [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead)
+- **Description:** An open-source browser extension for bilingual translation. 一款开源的浏览器双语翻译插件。
 
 ### [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p)
 - **Description:** 🖥️ P2P Remote Desktop - Portable peer-to-peer remote desktop with no installation required.
@@ -302,7 +320,7 @@
 - **Description:** A macOS config file manager that lets you quickly view, edit, and manage configuration files on your computer (such as `.zshrc`, `.gitconfig`, etc.).  macOS 配置文件管理工具，快速查看、编辑和管理电脑上的各种配置文件
 
 ### [ranuts/document](https://github.com/ranuts/document)
-- **Description:** Perform common file preview and editing via the web.
+- **Description:** Edit DOCX/XLSX/PPTX in your browser — client-side, no server, works offline (OnlyOffice + WebAssembly)
 
 ### [lin-snow/Ech0](https://github.com/lin-snow/Ech0)
 - **Description:** Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
@@ -553,7 +571,7 @@
 - **Description:** GKD 第三方订阅规则
 
 ### [toss/es-toolkit](https://github.com/toss/es-toolkit)
-- **Description:** A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+- **Description:** A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash.
 
 ### [TahaSh/swapy](https://github.com/TahaSh/swapy)
 - **Description:** ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
@@ -666,7 +684,7 @@
 - **Description:** edgetunnel2 VLESS/Trojan/SS 多功能面板
 
 ### [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-- **Description:** An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
+- **Description:** An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 
 ### [css/csso](https://github.com/css/csso)
 - **Description:** CSS minifier with structural optimizations
@@ -675,7 +693,7 @@
 - **Description:** ast-grep VSCode is a structural search and replace extension for many languages.
 
 ### [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor)
-- **Description:** A one-stop build analyzer for Rspack and webpack.
+- **Description:** AI-friendly build analyzer for Rspack
 
 ### [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move)
 - **Description:** Smoothly animated code blocks with Shiki
@@ -722,7 +740,7 @@
 - **Description:** 收录全网口碑平替好物清单，性价比突出、质量不输大牌。目前有成人服饰、儿童服饰、居家用品等系列。坚持更新，欢迎关注
 
 ### [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)
-- **Description:** weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  
+- **Description:** Bring Tailwind CSS to every platform! 把 Tailwind CSS 的原子化开发体验带到全端！
 
 ### [WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition)
 - **Description:** Animate your text changes
@@ -817,7 +835,7 @@
 ### [pomber/git-history](https://github.com/pomber/git-history)
 - **Description:** Quickly browse the history of a file from any git repository
 
-### [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)
+### [margelo/react-native-vision-camera](https://github.com/margelo/react-native-vision-camera)
 - **Description:** 📸 A powerful, high-performance React Native Camera library.
 
 ### [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar)
@@ -1187,8 +1205,8 @@
 ### [wopian/smooth-corners](https://github.com/wopian/smooth-corners)
 - **Description:** CSS superellipse masks using the Houdini API
 
-### [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-- **Description:** A node.js version management utility for Windows. Ironically written in Go.
+### [nvm-windows/nvm](https://github.com/nvm-windows/nvm)
+- **Description:** The Node.js version manager for Windows.
 
 ### [Eugeny/tabby](https://github.com/Eugeny/tabby)
 - **Description:** A terminal for a more modern age
@@ -1650,7 +1668,7 @@
 - **Description:** Isolated React component development environment with a living style guide
 
 ### [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-- **Description:** Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- **Description:** Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 
 ### [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl)
 - **Description:** [DEPRECATED] Stanford Javascript Crypto Library
@@ -1906,7 +1924,7 @@
 - **Description:** 2018年初整理的一些内网渗透TIPS，后面更新的慢，所以整理出来希望跟小伙伴们一起更新维护~
 
 ### [abedormancy/tinydownloader](https://github.com/abedormancy/tinydownloader)
-- **Description:** a tiny downloader with console panel.
+- **Description:** a tiny downloader with a console panel
 
 ### [pmndrs/react-spring](https://github.com/pmndrs/react-spring)
 - **Description:** ✌️ A spring physics based React animation library
